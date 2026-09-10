@@ -1,0 +1,22 @@
+{
+  "about": "Chase file. The Pi overwrites this. Two Plates only reads this.",
+  "updated": "2026-09-10",
+  "recipes": [
+    {"id": "steak", "title": "Skillet steak", "who": "you", "protein": "steak", "minutes": 12, "hotOk": false, "lowCarb": true, "how": "Hot pan, salt both sides, about 4 minutes each. Butter on top. Rest, foil, ride to work."},
+    {"id": "chicken", "title": "Hot-pan chicken thighs", "who": "you", "protein": "chicken", "minutes": 15, "hotOk": false, "lowCarb": true, "how": "Salt. Skin-side down in a hot pan until crisp, flip until cooked through. Foil for the ride."},
+    {"id": "pork", "title": "Pork chop", "who": "you", "protein": "pork", "minutes": 12, "hotOk": false, "lowCarb": true, "how": "Salt. Hot pan, 5-6 minutes a side. Butter at the end. Travels well."},
+    {"id": "innout", "title": "In-N-Out, two patties", "who": "you", "protein": "innout", "minutes": 20, "hotOk": true, "lowCarb": true, "how": "Two burger patties, no bun. Fast when cooking does not feel possible."},
+    {"id": "rotisserie", "title": "Rotisserie chicken", "who": "you", "protein": "chicken", "minutes": 5, "hotOk": true, "lowCarb": true, "how": "Grab a bird at the store. Pull a piece for you, foil it."},
+    {"id": "cobb", "title": "Cobb salad", "who": "you", "protein": "chicken", "minutes": 12, "hotOk": true, "lowCarb": true, "how": "Greens, chicken, egg, bacon, avocado. Skip croutons."},
+    {"id": "leftover", "title": "Reheat last night's protein", "who": "you", "protein": "other", "minutes": 8, "hotOk": false, "lowCarb": true, "how": "From Wednesday's extra cook. Pan-warm, don't start from scratch."},
+    {"id": "chicken-salad", "title": "Chicken salad", "who": "peter", "protein": "chicken", "minutes": 10, "hotOk": true, "lowCarb": true, "how": "Pull leftover or rotisserie chicken. Mayo, salt, celery if it's there."},
+    {"id": "asian-chicken-salad", "title": "Asian chicken salad", "who": "peter", "protein": "chicken", "minutes": 10, "hotOk": true, "lowCarb": true, "how": "Leftover chicken on greens with the dressing he likes."},
+    {"id": "cottage", "title": "Cottage cheese + chicken", "who": "peter", "protein": "chicken", "minutes": 5, "hotOk": true, "lowCarb": true, "how": "Cottage cheese, a little leftover chicken. Light, fast."},
+    {"id": "greens", "title": "Greens and chicken", "who": "peter", "protein": "chicken", "minutes": 8, "hotOk": true, "lowCarb": true, "how": "Bag greens, leftover chicken, salt, olive oil. No fish."},
+    {"id": "soup", "title": "A simple soup", "who": "peter", "protein": "other", "minutes": 15, "hotOk": false, "lowCarb": true, "how": "Whatever is in the carton or a quick pot."},
+    {"id": "eggs", "title": "Eggs and cottage cheese", "who": "peter", "protein": "eggs", "minutes": 8, "hotOk": false, "lowCarb": true, "how": "Scramble or fry. Cottage cheese on the side. Easy on choir night."},
+    {"id": "zucchini-bread", "title": "Zucchini Bread", "who": "peter", "protein": "other", "minutes": 60, "hotOk": false, "lowCarb": false, "how": "350F loaf, 50-60 min. Treat from the box."},
+    {"id": "citrus-chicken-thighs", "title": "Citrus chicken thighs", "who": "you", "protein": "chicken", "minutes": 15, "hotOk": false, "lowCarb": true, "how": "Salt. Hot pan. 15 minutes. Foil for the ride."},
+    {"id": "korean-baked-chicken-wings", "title": "Korean Baked Chicken Wings", "who": "you", "protein": "chicken", "minutes": 60, "hotOk": false, "lowCarb": true, "how": "From the recipe box on the Pi."}
+  ]
+}
