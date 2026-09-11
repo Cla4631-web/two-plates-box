@@ -1,6 +1,6 @@
 {
   "about": "Chase file. The Pi overwrites this. Two Plates only reads this. Weather and calendar still decide the night; this list is the menu that has to fit.",
-  "updated": "2026-09-10",
+  "updated": "2026-09-11",
   "recipes": [
     {
       "id": "steak",
@@ -133,16 +133,6 @@
       "how": "Scramble or fry. Cottage cheese on the side. Easy on choir night."
     },
     {
-      "id": "belgium-brussels-dish-of-beef-stewed-in-beer",
-      "title": "BELGIUM - BRUSSELS - Dish of beef stewed in beer.",
-      "who": "you",
-      "protein": "steak",
-      "minutes": 60,
-      "hotOk": false,
-      "lowCarb": false,
-      "how": "CARBONNADES A LA FLAMANDE Flemish-style carbonnade ~ beef stew made with beer 1b. Onions, Fat of any sort to fry onion in. 1lb. best stewing steak. 2 oz. flour (plain or self-raising) 2 pint hot water well-flavored with \u201cmeat extract\u201d (or p"
-    },
-    {
       "id": "korean-baked-chicken-wings",
       "title": "Korean Baked Chicken Wings",
       "who": "either",
@@ -157,7 +147,7 @@
       "title": "GRILLED CHICKEN Gyros",
       "who": "either",
       "protein": "chicken",
-      "minutes": 25,
+      "minutes": 45,
       "hotOk": false,
       "lowCarb": true,
       "how": "This mild tzatziki can be made more assertive by doubling the garlic. A rasp grater quickly turns the garlic into a paste. You\u2019ll need four 12-inch metal skewers. Chicken Salt and pepper 1\u00bd pounds boneless, skinless chicken breasts, trimmed"
@@ -167,7 +157,7 @@
       "title": "Beef in Red Wine",
       "who": "either",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 180,
       "hotOk": false,
       "lowCarb": false,
       "how": "teaspoon thyme 1 teaspoon or\u00e9gano 1 bay leaf \u00bc cup chopped parsley 1 teaspoon gravy seasoning 3 cups red wine 3 cups water Into container put 1 large onion, quartered The reserved flour mixture 2 cloves garlic Add water just to cover vegeta"
@@ -177,7 +167,7 @@
       "title": "German Pot Roast (Low carb)",
       "who": "either",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 210,
       "hotOk": false,
       "lowCarb": true,
       "how": "4-pound pot roast (chuck, rump, or similar) 1 teaspoon salt \u215b teaspoon pepper 2 tablespoons fat (lard, tallow, ghee, or avocado oil works great) 1 cup water, \u00bd teaspoon monk fruit sweetener (50% mogroside) 2 slices lemon (peeled), 2 medium "
@@ -187,7 +177,7 @@
       "title": "Mulligatawny  (Cold curry soup)",
       "who": "either",
       "protein": "other",
-      "minutes": 25,
+      "minutes": 45,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 medium onion 1. One cup flour 2 teaspoons curry powder 1 1/2 pints of beef stock 1. cut onion the onion into small pieces and fry them in fat 2. Stirring the flour the curry powder and add the beef stock. 3. Cook for 30 minutes. 4. Refrig"
@@ -197,7 +187,7 @@
       "title": "Deviled Chicken Legs",
       "who": "either",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 55,
       "hotOk": true,
       "lowCarb": false,
       "how": "For the curry paste (your exact base, scaled for 8 legs): 2 oz (55g) butter, softened to room temperature (or good margarine) 1 Tbsp tomato ketchup 1 tsp Worcestershire sauce 2 heaping tsp curry powder (mild to medium\u2014Harben\u2019s era was usual"
@@ -207,7 +197,7 @@
       "title": "Picnic. The ingredients for a picnic",
       "who": "either",
       "protein": "chicken",
-      "minutes": 25,
+      "minutes": 10,
       "hotOk": false,
       "lowCarb": true,
       "how": "Chicken Pasties Curried chicken legs Scotch Eggs Sandwiches Lettuce Cheese a picnic basket Should include a variety of finger foods."
@@ -217,27 +207,27 @@
       "title": "Picnic sandwiches",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 15,
       "hotOk": false,
       "lowCarb": false,
       "how": "French bread Lettuce Ham Hard-boiled egg Mayonnaise For the lettuce, turn it up on the head and cut out the stem in a V shape Run water down inside the cavity they will letuce fall apart. You can add ham with the hard-boiled eggs, lettuce, "
     },
     {
-      "id": "peppery-citrus-chicken-with-skin",
-      "title": "Peppery Citrus Chicken with Skin",
-      "who": "you",
-      "protein": "pork",
-      "minutes": 60,
-      "hotOk": true,
+      "id": "gazpacho-malcolm-s-july-21-2009",
+      "title": "Gazpacho Malcolm\u2018s July 21, 2009",
+      "who": "either",
+      "protein": "chicken",
+      "minutes": 20,
+      "hotOk": false,
       "lowCarb": true,
-      "how": "Ingredients \u2013 Chicken 3 bone-in, skin-on chicken drumsticks 2 bone-in, skin-on chicken thighs 3 large orange (zest + juice) 2 limes (zest + juice) 3 garlic cloves, minced 2 Tbsp avocado oil (perfect for high heat) 1 tsp freshly cracked blac"
+      "how": "Malcolm\u2018s gazpacho July 21, 2009 * Three cucumbers, halved and seeded, chopped finely. * Two bell peppers, chopped finely. * One big onion, chopped finely. * A can of V8 juice. * Half a cup of olive oil. * Half a cup of red wine vinegar. * "
     },
     {
       "id": "chicken-and-dumplings-low-carb-version",
       "title": "Chicken and Dumplings (Low-Carb Version)",
       "who": "either",
       "protein": "chicken",
-      "minutes": 25,
+      "minutes": 90,
       "hotOk": false,
       "lowCarb": false,
       "how": "For the Soup: 2\u00bd lbs bone-in, skin-on chicken thighs 1 lb chicken wings 2 tablespoons butter or avocado oil 1 large onion, diced 3 carrots, sliced 3 celery stalks, sliced 4 garlic cloves, minced \u00bc cup dry white wine (optional) 6 cups chicke"
@@ -247,47 +237,37 @@
       "title": "Fresh Tomato Gazpacho",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 25,
       "hotOk": false,
       "lowCarb": false,
       "how": "3 lbs ripe tomatoes (about 8 medium) 1 medium cucumber, peeled and halved lengthwise 1 green bell pepper, stemmed and seeded 1 small red onion 2 garlic cloves 1 small serrano chili, stemmed and halved (remove seeds for less heat) 1\u00bd teaspoo"
-    },
-    {
-      "id": "gazpacho-malcolm-s-july-21-2009",
-      "title": "Gazpacho Malcolm\u2018s July 21, 2009",
-      "who": "either",
-      "protein": "other",
-      "minutes": 25,
-      "hotOk": false,
-      "lowCarb": true,
-      "how": "Malcolm\u2018s gazpacho July 21, 2009 * Three cucumbers, halved and seeded, chopped finely. * Two bell peppers, chopped finely. * One big onion, chopped finely. * A can of V8 juice. * Half a cup of olive oil. * Half a cup of red wine vinegar. * "
-    },
-    {
-      "id": "west-virginia-sausage-ramps-breakfast-skillet",
-      "title": "West Virginia Sausage & Ramps Breakfast Skillet",
-      "who": "you",
-      "protein": "pork",
-      "minutes": 12,
-      "hotOk": false,
-      "lowCarb": true,
-      "how": "Leeks and ramps are pretty different. Ramps are small, wild, and have a strong, pungent garlic-onion flavor \u2014 they're bold and zippy. Leeks are much bigger, milder, and sweeter, with a gentle onion taste and no real garlic kick. For a close"
     },
     {
       "id": "texas-steak-chili-with-cocoa-chipotle-rbol",
       "title": "Texas Steak Chili with Cocoa, Chipotle & \u00c1rbol",
       "who": "you",
       "protein": "steak",
-      "minutes": 60,
+      "minutes": 150,
       "hotOk": false,
       "lowCarb": false,
       "how": "2\u00bd lbs beef chuck roast, cut into \u00be-inch cubes 2 chipotle peppers in adobo sauce, chopped + 2 tbsp adobo sauce 2 dried chiles de \u00e1rbol, stems removed (seeds optional for less heat) 2 tbsp unsweetened cocoa powder 2 tbsp chili powder 1 tbsp "
+    },
+    {
+      "id": "west-virginia-sausage-ramps-breakfast-skillet",
+      "title": "West Virginia Sausage & Ramps Breakfast Skillet",
+      "who": "you",
+      "protein": "pork",
+      "minutes": 30,
+      "hotOk": false,
+      "lowCarb": true,
+      "how": "Leeks and ramps are pretty different. Ramps are small, wild, and have a strong, pungent garlic-onion flavor \u2014 they're bold and zippy. Leeks are much bigger, milder, and sweeter, with a gentle onion taste and no real garlic kick. For a close"
     },
     {
       "id": "creamy-tuscan-chicken-skillet",
       "title": "Creamy Tuscan Chicken Skillet",
       "who": "either",
       "protein": "chicken",
-      "minutes": 12,
+      "minutes": 35,
       "hotOk": false,
       "lowCarb": true,
       "how": "4 chicken breasts or 6 thighs 2 tbsp butter 4 cloves garlic, minced 1 cup heavy cream \u00bd cup chicken broth \u00bd cup grated Parmesan 2 cups fresh spinach \u00bd cup sun-dried tomatoes, chopped 1 tsp Italian seasoning Salt and pepper Season chicken wi"
@@ -297,7 +277,7 @@
       "title": "Slow Cooker Pot Roast (Elevated Version with Red Wine)",
       "who": "either",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 480,
       "hotOk": false,
       "lowCarb": false,
       "how": "3\u20134 lb boneless beef chuck roast (well-marbled for best results) 2\u20133 tbsp high-quality avocado oil or ghee (for searing) 1 large yellow onion, thickly sliced 8\u201310 oz mushrooms (cremini or mixed), halved or quartered 4\u20136 garlic cloves, smash"
@@ -307,7 +287,7 @@
       "title": "Loaded baked potato soup",
       "who": "you",
       "protein": "pork",
-      "minutes": 12,
+      "minutes": 50,
       "hotOk": false,
       "lowCarb": false,
       "how": "Prep time 35 minutes -2 large onions, chopped - 3 tablespoons butter - 2 tablespoons all-purpose flour - 2 cups water, divided - 4 cups chicken broth - 2 medium potatoes, peeled and diced - 1 and a half cups mashed potato flakes - Half a po"
@@ -327,7 +307,7 @@
       "title": "Toasted Cauliflower Pizza Casserole",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 55,
       "hotOk": false,
       "lowCarb": false,
       "how": "2 large heads cauliflower (about 4\u20135 lbs), cut into bite-sized florets 2\u20133 tbsp ghee or avocado oil (for roasting) 1.5\u20132 lbs grass-fed ground beef 1 large onion, diced 8\u201310 oz mushrooms (cremini or button), sliced 3\u20134 garlic cloves, minced "
@@ -347,7 +327,7 @@
       "title": "Chicken Fajitas",
       "who": "either",
       "protein": "chicken",
-      "minutes": 12,
+      "minutes": 60,
       "hotOk": false,
       "lowCarb": false,
       "how": "Serves 2 (generous portions) This should be a hit for Peter! It pairs excellently with the refried beans or the lemon chicken rice soup we developed earlier. 12\u201316 oz (\u00be\u20131 lb) boneless, skinless chicken thighs (preferred) or breasts, cut in"
@@ -367,7 +347,7 @@
       "title": "Fresh pumpkin soup (slow cooker)",
       "who": "either",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 360,
       "hotOk": false,
       "lowCarb": true,
       "how": "Pumpkin Apple Soup Recipe - 8 cups chopped fresh pumpkin (about 3 pounds) - 4 cups chicken broth - 3 small tart apples, peeled and chopped - 1 medium onion, chopped - 2 tablespoons lemon juice - 2 tablespoons minced fresh ginger root - 2 ga"
@@ -387,7 +367,7 @@
       "title": "Carne Adovada for Two",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 150,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 to 1.25 lbs boneless pork shoulder (butt), cut into 1.5\u20132 inch cubes 2\u20133 Tbsp avocado oil (divided) 1 medium yellow onion, diced (about 1.5 cups) 4 garlic cloves, minced 1\u20132 canned chipotle chiles in adobo, minced (start with 1 for modera"
@@ -397,7 +377,7 @@
       "title": "Summer Vegetable Gratin for Two",
       "who": "either",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 45,
       "hotOk": false,
       "lowCarb": true,
       "how": "\u2022 1 medium yellow onion, halved and sliced thin \u2022 3\u20134 tablespoons avocado oil, divided \u2022 1 small clove garlic, minced \u2022 1 teaspoon minced fresh thyme \u2022 1 medium zucchini, sliced \u00bc-inch thick \u2022 1 medium yellow summer squash, sliced \u00bc-inch th"
@@ -407,7 +387,7 @@
       "title": "Green Chile Cheeseburger W/  Grind option",
       "who": "you",
       "protein": "innout",
-      "minutes": 60,
+      "minutes": 45,
       "hotOk": true,
       "lowCarb": false,
       "how": "For the patties: 1 lb ground beef (80/20 preferred for juiciness) or grind 1 lb beef (recommend 70% chuck + 30% brisket or short rib trimmings for optimal flavor, fat, and texture \u2014 ask your butcher or use what you have) 2 garlic cloves, mi"
@@ -417,7 +397,7 @@
       "title": "Peter\u2019s Upgraded Slow Cooker Creamy Mushroom Beef Stew",
       "who": "either",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 420,
       "hotOk": false,
       "lowCarb": false,
       "how": "Prep Time: 10\u201315 min (mostly Peter-proof) Cook Time: 6\u20138 hours on LOW (or 4\u20135 on HIGH) Servings: 2 generous (easy to double) Nutrition Notes (approx. per serving): ~550\u2013650 cal, 35\u201345g fat, 8\u201312g net carbs (mostly onion/mushrooms), 45g+ pro"
@@ -427,7 +407,7 @@
       "title": "Grilled Beef Teriyaki (Low-Carb, Real-Fat Version)",
       "who": "you",
       "protein": "steak",
-      "minutes": 12,
+      "minutes": 40,
       "hotOk": false,
       "lowCarb": false,
       "how": "For the marinade/glaze (makes enough for beef + extra for brushing): \u2153 cup tamari or good soy sauce (tamari is lower carb/gluten-free option) 3\u20134 tbsp monk fruit baking blend (golden or classic \u2014 adjust to taste; it browns and caramelizes l"
@@ -437,7 +417,7 @@
       "title": "Low-Carb Silky Cheese Soup (Blender Method)",
       "who": "either",
       "protein": "chicken",
-      "minutes": 25,
+      "minutes": 35,
       "hotOk": false,
       "lowCarb": false,
       "how": "Prep: 15 min Cook: 15\u201320 min Servings: 2 generous Net carbs: ~5\u20138g per serving Base: 2 Tbsp butter (or ghee) 1 small shallot or \u00bc small onion, finely minced (optional but adds depth with almost no carbs) 1 clove garlic, smashed (we\u2019ll disca"
@@ -467,7 +447,7 @@
       "title": "Creamy Tarragon Flank Steak",
       "who": "you",
       "protein": "steak",
-      "minutes": 12,
+      "minutes": 30,
       "hotOk": false,
       "lowCarb": true,
       "how": "(Works excellently with flap steak / carne asada meat) Servings: 2 For the Steak: \u2022 1 lb flap steak or flank steak (flap steak / carne asada meat preferred \u2014 more flavorful and tender) \u2022 Salt and black pepper \u2022 1 Tbsp avocado oil or melted "
@@ -477,7 +457,7 @@
       "title": "Creamy Tarragon Flank Steak for Two",
       "who": "you",
       "protein": "steak",
-      "minutes": 12,
+      "minutes": 30,
       "hotOk": false,
       "lowCarb": true,
       "how": "(Works excellently with flap steak / carne asada meat) Servings: 2 For the Steak: \u2022 1 lb flap steak or flank steak (flap steak / carne asada meat preferred \u2014 more flavorful and tender) \u2022 Salt and black pepper \u2022 1 Tbsp avocado oil or melted "
@@ -487,7 +467,7 @@
       "title": "Spicy Roasted Chicken Legs for Two",
       "who": "you",
       "protein": "steak",
-      "minutes": 60,
+      "minutes": 50,
       "hotOk": false,
       "lowCarb": true,
       "how": "4\u20136 chicken legs (bone-in, skin-on) 2 Tbsp avocado oil or melted beef tallow 1\u00bd tsp salt 1 tsp garlic powder 1 tsp smoked paprika \u00be tsp cayenne pepper (adjust to your heat preference) \u00bd tsp black pepper \u00bd tsp dried thyme or oregano (optiona"
@@ -497,7 +477,7 @@
       "title": "Beer-Battered Fried Zucchini for Two",
       "who": "either",
       "protein": "other",
-      "minutes": 25,
+      "minutes": 55,
       "hotOk": false,
       "lowCarb": false,
       "how": "2 medium zucchini 1\u20131\u00bd tsp salt (for drawing out water) \u00be cup all-purpose flour \u00bc cup cornstarch 1 tsp baking powder \u00bd tsp salt \u00bd tsp garlic powder \u00bc tsp black pepper 1 cup very cold beer (or sparkling water) Beef tallow or avocado oil for "
@@ -507,7 +487,7 @@
       "title": "Elevated Whimsical Wedge & Magic Fried Chicken",
       "who": "you",
       "protein": "pork",
-      "minutes": 12,
+      "minutes": 60,
       "hotOk": true,
       "lowCarb": false,
       "how": ". \"Mom's Magic\" Blue Cheese Dressing \u00bd cup sour cream or cr\u00e8me fra\u00eeche \u00bc cup mayonnaise (made with avocado oil) \u00bc cup buttermilk \u00bd cup high-quality blue cheese, crumbled (divided) 1 tsp fresh lemon juice \u00bd tsp garlic powder A pinch of monk "
@@ -527,7 +507,7 @@
       "title": "Pulled Pork and Gravy on potatoes",
       "who": "you",
       "protein": "pork",
-      "minutes": 25,
+      "minutes": 55,
       "hotOk": false,
       "lowCarb": false,
       "how": "- Two boneless pork chops - 1 cup of chicken broth - 1 cup of red wine - 1 russet potato - 1/2 package of sliced mushrooms - 1 package of brown gravy In a pressure cooker, brown to pork chops in oil. Add a cup of chicken stock or broth and "
@@ -537,7 +517,7 @@
       "title": "Garlic-Salt Steak Dust",
       "who": "you",
       "protein": "steak",
-      "minutes": 25,
+      "minutes": 5,
       "hotOk": false,
       "lowCarb": true,
       "how": "Ratio 4 Tbsp garlic salt 2 Tbsp smoked paprika (or 2 Tbsp dried thyme + rosemary mixed, or 1 Tbsp each paprika + herbs) Combine in a small bowl and stir until evenly mixed. Transfer to a small jar or shaker. Label it. Store in a cool, dark "
@@ -547,7 +527,7 @@
       "title": "Bean and Beef Pie",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 50,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 pound lean ground beef 2 garlic cloves, minced 1 can (11\u00bd ounces) condensed bean with bacon soup, undiluted 1 jar (16 ounces) thick and chunky picante sauce, divided \u00bc cup cornstarch 1 teaspoon dried parsley 1 teaspoon paprika 1 teaspoon "
@@ -557,7 +537,7 @@
       "title": "Chicken Parmigiana",
       "who": "peter",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 50,
       "hotOk": true,
       "lowCarb": false,
       "how": "6 boneless, skinless chicken breasts 1/2 cup Italian seasoned bread crumbs 1/2 cup grated Parmesan cheese, divided 1 egg 1/4 to 1/3 cup olive oil 2 cups spaghetti sauce 1 clove garlic, minced 1 tsp oregano 1 package (8 ounces) Mozzarella ch"
@@ -567,7 +547,7 @@
       "title": "Chicken Tortilla Bake",
       "who": "either",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 50,
       "hotOk": false,
       "lowCarb": true,
       "how": "3 cups shredded cooked chicken 1 can (4 ounces) chopped green chilies 1 can (2-1/4 ounces) sliced black olives, divided 1 cup chicken broth 1 can (10-3/4 ounces) condensed cream of mushroom soup, undiluted 1 can (10-3/4 ounces) condensed cr"
@@ -577,7 +557,7 @@
       "title": "Country-Fried Steak",
       "who": "you",
       "protein": "steak",
-      "minutes": 12,
+      "minutes": 35,
       "hotOk": true,
       "lowCarb": false,
       "how": "3/4 cup flour 1/4 cup cornmeal 1 tsp salt 1 tsp pepper 4 beef cube steaks (about 1 pound)* 2 eggs 2 tsp milk 4 tbsp cooking oil, divided Gravy 1 tbsp pan drippings 2 tbsp flour 1-1/2 cups milk 1 tsp beef bouillon granules 1/8 tsp pepper Das"
@@ -597,7 +577,7 @@
       "title": "Macaroni and Cheese",
       "who": "either",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 50,
       "hotOk": false,
       "lowCarb": false,
       "how": "2 cups uncooked elbow macaroni 1/2 cup butter 1/2 cup flour 1-3/4 cups milk 1 cup sour cream 1/4 cup grated Parmesan cheese 1/2 tsp. salt 1/2 tsp. pepper 1/2 tsp. dry mustard 2 cups (8 ounces) grated Sharp Cheddar cheese, divided 1. Preheat"
@@ -607,7 +587,7 @@
       "title": "Monterey Jack Casserole",
       "who": "peter",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 45,
       "hotOk": true,
       "lowCarb": false,
       "how": "1 pound ground beef 1 tbsp. instant minced onion 1 package (8 ounces) corn chips, crushed (3 cups crushed) 1 can (15 ounces) mild enchilada sauce 1-1/2 cups (6 ounces) shredded Monterey Jack cheese Sour cream, optional 1. Preheat oven to 35"
@@ -617,7 +597,7 @@
       "title": "Pork Chops with Scalloped Potatoes",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 75,
       "hotOk": false,
       "lowCarb": false,
       "how": "3 tbsp. butter 3 tbsp. flour 1-1/2 tsp. salt 1/4 tsp. pepper 1 can (14-1/2 ounces) chicken broth 6 rib or loin pork chops 2 tbsp. vegetable oil 6 cups thinly sliced peeled potatoes 1 medium onion, chopped 1. In a saucepan, melt butter; stir"
@@ -627,7 +607,7 @@
       "title": "Pork Cordon Bleu",
       "who": "you",
       "protein": "pork",
-      "minutes": 25,
+      "minutes": 40,
       "hotOk": false,
       "lowCarb": false,
       "how": "12 thin-sliced center-cut pork chops, boneless 6 slices Swiss cheese 6 slices smoked ham Flour 1 egg, beaten 2 tbsp. water 1-1/2 cups Ritz cracker crumbs Oil or shortening for frying 1 can (10-3/4 ounces) condensed Golden Mushroom Soup, und"
@@ -637,7 +617,7 @@
       "title": "Savory Pork and Vegetables",
       "who": "you",
       "protein": "pork",
-      "minutes": 12,
+      "minutes": 35,
       "hotOk": false,
       "lowCarb": true,
       "how": "2 tbsp. butter 4 boneless pork chops, 3/4-inch thick 1-1/2 cups sliced mushrooms 1/2 tsp. dried rosemary leaves, crushed 1 can (10-3/4 ounces) condensed cream of mushroom soup, undiluted 2 tbsp. water 1/2 lb. fresh green beans, cut into 2-i"
@@ -647,7 +627,7 @@
       "title": "Sesame Chicken Strips",
       "who": "either",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 35,
       "hotOk": false,
       "lowCarb": false,
       "how": "1/2 cup mayonnaise 1 tsp. dried minced onion 1 tsp. dry mustard 1/2 cup crushed butter-flavor crackers 1/4 cup sesame seeds 1 pound boneless, skinless chicken breasts SAUCE: 1/2 cup mayonnaise 2 tbsp. honey 1 tbsp. prepared mustard 1. In a "
@@ -657,7 +637,7 @@
       "title": "Sloppy Joes",
       "who": "either",
       "protein": "other",
-      "minutes": 25,
+      "minutes": 30,
       "hotOk": false,
       "lowCarb": false,
       "how": "2 pounds ground beef 1/2 cup chopped onion 1/2 cup finely chopped green pepper 1 can (10-3/4 ounces) condensed tomato soup, undiluted 1 can (8 ounces) tomato sauce 1/3 cup packed brown sugar 2 tbsp. ketchup 1-1/2 tbsp. Worchestershire sauce"
@@ -667,7 +647,7 @@
       "title": "Taco Pie",
       "who": "peter",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 40,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 pound ground beef 2 tbsp. taco seasoning mix 1 can (8 ounces) tomato sauce 1-3/4 cups biscuit mix 1/2 cup milk 1 cup shredded Monterey Jack cheese 3 cups shredded lettuce 2 tomatoes, chopped 1/2 cup sour cream 1/4 cup sliced black olives "
@@ -677,7 +657,7 @@
       "title": "Chicken 'n Dumplings",
       "who": "either",
       "protein": "chicken",
-      "minutes": 12,
+      "minutes": 90,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 large fryer chicken, cut up 2 celery stalks, sliced 4 carrots, peeled and sliced 1 medium onion, diced 1 can (14-1/2 ounces) chicken broth 2 tbsp. dried parsley 2 tsp. chicken bouillon granules 1-1/2 tsp. salt 1/2 to 1 tsp. pepper Water D"
@@ -687,7 +667,7 @@
       "title": "Chilled Taco Salad",
       "who": "either",
       "protein": "other",
-      "minutes": 12,
+      "minutes": 30,
       "hotOk": true,
       "lowCarb": true,
       "how": "1 pound lean ground beef 1 to 2 cloves garlic, minced 1 tbsp. chili powder 1 can (15 ounces) dark red kidney beans, undrained 1 jar (16 ounces) taco sauce 1 small can sliced black olives 1 tomato, diced 1/4 cup scallions, sliced 2 cups shre"
@@ -697,7 +677,7 @@
       "title": "Grilled Szechuan Chicken Salad",
       "who": "either",
       "protein": "chicken",
-      "minutes": 12,
+      "minutes": 35,
       "hotOk": true,
       "lowCarb": false,
       "how": "1 pound boneless, skinless chicken breasts Seasoned pepper 1 can (8 ounces) pineapple slices 3 tbsp vegetable oil 2 tbsp soy sauce 2 tbsp reserved pineapple juice 1 tbsp vinegar 1 tbsp honey 1/4 tsp ground ginger Mixed greens (lettuce, red "
@@ -707,7 +687,7 @@
       "title": "Hearty Split Pea Soup",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 90,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 package (16 ounces) dry green split peas 4 cups water 2 cups chicken broth 1/2 pound cooked, finely cubed ham 1 large potato, peeled and diced 3 medium carrots, peeled and sliced 1 celery stalk, sliced 1 small onion, chopped 1/2 tsp salt "
@@ -717,7 +697,7 @@
       "title": "Beef Stew",
       "who": "peter",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 195,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 pound lean beef stew meat 5 medium potatoes, peeled and cubed 3 large carrots, peeled and sliced 2 stalks celery, sliced 1 small onion, cut into small chunks 1/4 cup fresh chopped parsley 1 can (15 ounces) tomato sauce 2 cups beef broth, "
@@ -727,7 +707,7 @@
       "title": "Shepherd\u2019s Pie for Two",
       "who": "peter",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 50,
       "hotOk": true,
       "lowCarb": false,
       "how": "Meat filling \u00be\u20131 lb ground beef (or ground lamb for true Shepherd\u2019s Pie) 1 Tbsp avocado oil or ghee \u00bd medium onion, finely diced 1 small carrot, finely diced 1 celery stalk, finely diced (optional but good) 1\u20132 garlic cloves, minced 1 Tbsp "
@@ -737,7 +717,7 @@
       "title": "Three-Cheese Chicken Enchiladas",
       "who": "peter",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 50,
       "hotOk": false,
       "lowCarb": false,
       "how": "1/3 cup avocado oil (original used vegetable oil; upgraded) 8 corn tortillas (6-inch) 1 can (10 ounces) enchilada sauce 4 ounces cream cheese 3/4 cup sour cream 1/4 tsp salt 1/4 tsp ground cumin 1/4 tsp pepper 2 cups shredded chicken 2 cups"
@@ -747,7 +727,7 @@
       "title": "French Ragout",
       "who": "peter",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 120,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 lb beef stew meat 2 tbsp avocado oil (original used cooking oil; upgraded) 1 medium onion, sliced 3 tbsp butter 1 beef bouillon cube 1-1/2 cups water 1 cup beef gravy 1 lemon slice 2 cups diced potatoes 1 cup sliced carrots 3/4 tsp salt 1"
@@ -757,7 +737,7 @@
       "title": "One-Dish Chicken and Stuffing Bake",
       "who": "either",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 45,
       "hotOk": false,
       "lowCarb": true,
       "how": "1 box (6 ounces) Chicken stuffing mix 1-1/4 cups hot water 1/4 cup butter, softened 4 boneless, skinless chicken breasts Paprika Pepper 1 can (10-3/4 ounces) condensed cream of mushroom soup, undiluted 1/3 cup milk 1. In medium bowl, mix st"
@@ -767,7 +747,7 @@
       "title": "Beer Brewed Bratwurst",
       "who": "either",
       "protein": "other",
-      "minutes": 25,
+      "minutes": 40,
       "hotOk": false,
       "lowCarb": true,
       "how": "1 can beer 1/2 cup water 1/4 cup butter 1 tbsp garlic powder 1/2 tsp salt 1/4 tsp pepper 6 bratwurst, uncooked 6 brat buns, hoagie rolls or hot dog buns 1. In a large saucepan combine beer, water, butter, garlic powder, salt and pepper. Add"
@@ -777,7 +757,7 @@
       "title": "Spinach Lasagna Roll-Ups",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 55,
       "hotOk": false,
       "lowCarb": false,
       "how": "8 lasagna noodles, uncooked 1 package (10 ounces) frozen chopped spinach, thawed 1/3 cup finely chopped onion 2 cloves garlic, minced 1 tbsp avocado oil (original used vegetable oil; upgraded) 1 cup ricotta cheese 1/3 cup grated Parmesan ch"
@@ -787,7 +767,7 @@
       "title": "Beef Jerky",
       "who": "you",
       "protein": "steak",
-      "minutes": 25,
+      "minutes": 480,
       "hotOk": false,
       "lowCarb": false,
       "how": "1-1/2 pounds beef flank steak 1/4 cup soy sauce 1/4 cup Worcestershire sauce 1-1/2 tsp garlic powder 1-1/2 tsp pepper 1 tsp liquid smoke 1 tsp onion powder 1 tsp Accent flavor enhancer 1. Trim all fat from the steak and slice 1/8-inch thick"
@@ -797,7 +777,7 @@
       "title": "Fresh Vegetable Pizza",
       "who": "either",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 40,
       "hotOk": false,
       "lowCarb": true,
       "how": "2 cans (8 ounces each) refrigerated crescent dinner rolls 1 package (8 ounces) cream cheese, softened 2 tbsp sour cream 1 tsp dillweed 1/2 tsp horseradish, or to taste 1/4 tsp salt 1/8 tsp pepper 1-1/2 cups small broccoli florets 1 cup fres"
@@ -807,7 +787,7 @@
       "title": "Asparagus Ham Rolls",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 40,
       "hotOk": false,
       "lowCarb": false,
       "how": "16 fresh or frozen asparagus spears, trimmed 3 tbsp Dijon mustard 16 thin slices cooked ham 16 thin slices Swiss cheese 2 eggs, beaten 1 cup dry bread crumbs Avocado oil for frying (original used cooking oil; upgraded) 1. In a skillet, cook"
@@ -817,7 +797,7 @@
       "title": "Mozzarella Sticks",
       "who": "peter",
       "protein": "eggs",
-      "minutes": 60,
+      "minutes": 35,
       "hotOk": false,
       "lowCarb": false,
       "how": "2 eggs 1 tbsp water 1 cup dry bread crumbs 1-1/2 tsp Italian seasoning 1/2 tsp garlic powder 1/8 tsp pepper 12 sticks string cheese 3 tbsp flour 1 tbsp butter, melted 1 cup marinara or spaghetti sauce 1. In a small bowl, beat eggs and water"
@@ -827,7 +807,7 @@
       "title": "Double Decker Tacos",
       "who": "either",
       "protein": "other",
-      "minutes": 12,
+      "minutes": 30,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 pound ground beef 1 package (1-1/4 ounces) Taco Seasoning Mix 3/4 cup water 1 can (16 ounces) refried beans 10 taco-size flour tortillas 10 hard taco shells 2-1/2 cups shredded lettuce 1 cup shredded Cheddar cheese 1 tomato, diced Sour cr"
@@ -837,7 +817,7 @@
       "title": "Chicken Marsala for Two",
       "who": "either",
       "protein": "chicken",
-      "minutes": 12,
+      "minutes": 35,
       "hotOk": false,
       "lowCarb": false,
       "how": "For the chicken: 2 boneless, skinless chicken breasts (6\u20138 oz each), pounded to even \u00bd-inch thickness 2\u20133 Tbsp almond flour (or light all-purpose flour if preferred) \u00bd tsp salt \u00bc tsp black pepper \u00bc tsp garlic powder (optional) 1\u20132 Tbsp avoc"
@@ -847,7 +827,7 @@
       "title": "Pork Cutlets with Fig Pan Sauce",
       "who": "you",
       "protein": "pork",
-      "minutes": 12,
+      "minutes": 25,
       "hotOk": false,
       "lowCarb": true,
       "how": "For the pork: 2 thin pork cutlets (about 4\u20136 oz each), or one larger cutlet pounded thin and cut in half Salt and freshly ground black pepper 1\u20132 Tbsp avocado oil or ghee 1 Tbsp butter For the fig pan sauce: 4\u20135 fresh figs, stemmed and quar"
@@ -867,7 +847,7 @@
       "title": "Roast Turkey",
       "who": "either",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 210,
       "hotOk": false,
       "lowCarb": true,
       "how": "1/4 cup butter 1/2 cup sliced celery 1 large onion, chopped 1 can (14-1/2 ounces) chicken broth 1/4 cup water 2 tbsp. melted butter 1 bag (14 ounces) Herb Seasoned Stuffing 12-14 pound turkey 1/2 cup melted butter 1. Melt butter in large sa"
@@ -877,7 +857,7 @@
       "title": "Vegetable Beef Pot Pie",
       "who": "peter",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 50,
       "hotOk": false,
       "lowCarb": false,
       "how": "2 frozen 9-inch deep-dish pie crusts 1 stalk celery, sliced 1 small onion, chopped 1\u20132 tbsp. butter or avocado oil (for saut\u00e9ing) 1 can (10-3/4 ounces) beefy mushroom soup 2 cups cooked, finely cubed beef 1 cup diced, cooked potatoes 3/4 cu"
@@ -887,7 +867,7 @@
       "title": "Honey-Pineapple Glazed Ham",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 120,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 fully cooked smoked ham, about 5 pounds 1 cup packed brown sugar (or \u00bd cup monk fruit baking blend + 2\u20133 tbsp. brown sugar for flavor) 1 tbsp. cornstarch 1/4 tsp. salt 1 can (8 ounces) crushed pineapple, undrained 1/4 cup honey 1 tsp. pre"
@@ -897,7 +877,7 @@
       "title": "Extra-Easy Lasagna",
       "who": "peter",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 75,
       "hotOk": true,
       "lowCarb": false,
       "how": "1/2 pound lean ground beef 1 can (27 ounces) spaghetti sauce (or homemade spaghetti sauce) 6 uncooked lasagna noodles 1 container (15 ounces) ricotta cheese 2 cups shredded mozzarella cheese 1 cup shredded cheddar cheese 1/2 cup grated Parm"
@@ -907,7 +887,7 @@
       "title": "Teriyaki Kabobs",
       "who": "you",
       "protein": "steak",
-      "minutes": 25,
+      "minutes": 40,
       "hotOk": false,
       "lowCarb": false,
       "how": "1/2 cup ketchup 1/2 cup soy sauce 1/2 cup sugar (or 3\u20134 tbsp. monk fruit sweetener + 1\u20132 tbsp. brown sugar for depth) 1 tsp. garlic powder 1-1/2 pounds beef sirloin steak, cut into cubes 1 can (20 ounces) pineapple chunks or one fresh pinea"
@@ -917,7 +897,7 @@
       "title": "Chili",
       "who": "either",
       "protein": "other",
-      "minutes": 25,
+      "minutes": 45,
       "hotOk": false,
       "lowCarb": true,
       "how": "1 pound ground beef 1 can (15-1/2 ounces) kidney beans, undrained 1 can (15-1/2 ounces) chili beans, with sauce 1 can (15 ounces) tomato sauce 1 can (15 ounces) chopped tomatoes 1 small onion, diced 1-1/2 tbsp. chili powder 2 tbsp. diced gr"
@@ -927,7 +907,7 @@
       "title": "Chicken Stew",
       "who": "peter",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 240,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 can (14-1/2 ounces) chicken broth 1 can (6 ounces) tomato paste 1 lb. boneless, skinless chicken breasts, cut into 1-inch cubes 2 cups potatoes, peeled and cubed 1 small onion, chopped 1 celery stalk, sliced 2 medium carrots, sliced 1/2 t"
@@ -937,7 +917,7 @@
       "title": "Spaghetti",
       "who": "either",
       "protein": "other",
-      "minutes": 25,
+      "minutes": 30,
       "hotOk": false,
       "lowCarb": false,
       "how": "For the sauce: 3/4 pound lean ground beef 1 small onion, chopped 1 can (29 ounces) crushed tomatoes 1 can (15 ounces) tomato sauce 1 can (14-1/2 ounces) diced tomatoes, undrained 1 can (6 ounces) tomato paste 1 cup sliced mushrooms, optiona"
@@ -957,7 +937,7 @@
       "title": "Turkey-Mushroom Casserole",
       "who": "either",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 45,
       "hotOk": true,
       "lowCarb": true,
       "how": "1 package (12 ounces) wide egg noodles, cooked and drained 2 cups cooked, chopped turkey 1 can (4 ounces) sliced mushrooms, drained 1 can (10-3/4 ounces) condensed cream of mushroom soup, undiluted 1-1/3 cups milk 1/2 tsp. salt 1/4 tsp. pep"
@@ -967,7 +947,7 @@
       "title": "Sweet \u2019N Spicy Kielbasa",
       "who": "you",
       "protein": "pork",
-      "minutes": 25,
+      "minutes": 180,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 cup packed brown sugar (or \u2153\u2013\u00bd cup monk fruit baking blend + 2\u20133 tbsp. brown sugar) 6 tbsp. spicy mustard 1 small onion, finely chopped 2 pounds smoked kielbasa, cut into 2-inch pieces 1. Combine brown sugar (or monk fruit blend), mustard"
@@ -977,7 +957,7 @@
       "title": "Swedish Meatballs",
       "who": "peter",
       "protein": "eggs",
-      "minutes": 60,
+      "minutes": 45,
       "hotOk": false,
       "lowCarb": false,
       "how": "For the meatballs: 1-1/2 pounds ground beef 1 cup bread crumbs (or 1 cup almond flour for lower carb) 1 egg 1-1/2 tbsp. instant minced onion 1 tbsp. Worcestershire sauce 1/4 tsp. salt 1/4 tsp. pepper Dash garlic powder For the sauce: 1 can "
@@ -987,7 +967,7 @@
       "title": "Baked Onion Chicken",
       "who": "peter",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 40,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 pouch dry onion soup mix 2/3 cup dry bread crumbs (or 2/3 cup almond flour) 1/2 tsp. pepper 1 egg 2 tbsp. water 6 boneless, skinless chicken breasts 2 tbsp. butter, melted 1. With a rolling pin, crush the soup mix in the pouch. On wax pap"
@@ -997,7 +977,7 @@
       "title": "Breakfast Burritos",
       "who": "you",
       "protein": "pork",
-      "minutes": 12,
+      "minutes": 25,
       "hotOk": false,
       "lowCarb": false,
       "how": "6 large flour tortillas (10-inch) 6 eggs 6 strips bacon, cooked and crumbled 1-1/2 tbsp. milk 1/2 tsp. salt 1/4 tsp. pepper 1-1/2 tbsp. butter 3/4 cup salsa 1 cup shredded Cheddar cheese 1. Lightly beat eggs, milk, salt, and pepper in a sma"
@@ -1007,7 +987,7 @@
       "title": "Chicken Kiev",
       "who": "you",
       "protein": "steak",
-      "minutes": 60,
+      "minutes": 75,
       "hotOk": false,
       "lowCarb": false,
       "how": "For the herb butter: 1/4 cup butter, softened 1 tbsp. chopped chives 1/2 tbsp. parsley Pinch of salt 1/8 tsp. pepper 1 garlic clove, finely minced For the chicken: 6 boneless, skinless chicken breasts 1 egg 1 tbsp. milk 1 envelope (2-3/4 ou"
@@ -1027,7 +1007,7 @@
       "title": "Chicken and Rice Bake",
       "who": "either",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 75,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 can (10-3/4 ounces) condensed cream of celery soup 1 can (10-3/4 ounces) condensed cream of mushroom soup 1 can (10-3/4 ounces) condensed cream of chicken soup 1 small onion, chopped 1-1/2 cups converted rice, uncooked 1-3/4 cups water 1/"
@@ -1037,7 +1017,7 @@
       "title": "Corn Chowder",
       "who": "you",
       "protein": "pork",
-      "minutes": 25,
+      "minutes": 40,
       "hotOk": false,
       "lowCarb": false,
       "how": "2 tbsp. butter 1 small onion, finely chopped 1 clove garlic, minced 3 cups peeled potatoes, diced 1-1/2 cups hot water 1 heaping tsp. chicken bouillon 2 cups milk 1 cup half-and-half 3 tbsp. flour (or 3 tbsp. almond flour) 1/2 tbsp. minced "
@@ -1047,7 +1027,7 @@
       "title": "Cottage Pie",
       "who": "peter",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 55,
       "hotOk": true,
       "lowCarb": false,
       "how": "1-1/2 lbs. ground beef 1 small onion, chopped 1/4 tsp. salt 1/8 tsp. pepper 1/8 tsp. marjoram 2 cups brown gravy 2 cups mashed potatoes 1/2 cup Cheddar cheese 2 tsp. butter 1. Brown ground beef and onion in a skillet; drain. Stir in spices "
@@ -1057,7 +1037,7 @@
       "title": "Creamy Turkey-Vegetable Soup",
       "who": "either",
       "protein": "chicken",
-      "minutes": 12,
+      "minutes": 35,
       "hotOk": true,
       "lowCarb": false,
       "how": "1 small onion, diced 2 tbsp. butter 2 cups water 2 chicken bouillon cubes 2 cups diced cooked turkey 1/2 cup chopped celery 1-1/2 cups diced potatoes 1 cup diced carrots 2-1/2 cups milk 2 tbsp. flour (or 2 tbsp. almond flour) 1 tsp. salt 1/"
@@ -1067,7 +1047,7 @@
       "title": "Goulash",
       "who": "either",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 50,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 pound lean ground beef 1 small onion, chopped 8 ounces elbow macaroni, cooked 1 cup frozen corn or peas 1 can (10-3/4 ounces) condensed tomato soup, undiluted 1 can (8 ounces) tomato sauce 1/4 cup water Salt and pepper to taste 1. In a sk"
@@ -1077,7 +1057,7 @@
       "title": "Honey-Barbecued Ribs",
       "who": "you",
       "protein": "pork",
-      "minutes": 25,
+      "minutes": 150,
       "hotOk": false,
       "lowCarb": false,
       "how": "4 pounds pork baby back ribs 1 pouch dry onion soup mix 3/4 cup ketchup 1/2 cup water 1/3 cup honey 1/2 tsp. pepper 1/4 tsp. garlic powder 1. Cut ribs into 2- or 3-rib portions. 2. In a 6-quart Dutch oven, place ribs in enough cold water to"
@@ -1087,7 +1067,7 @@
       "title": "Meatloaf with Onion Gravy",
       "who": "peter",
       "protein": "eggs",
-      "minutes": 60,
+      "minutes": 75,
       "hotOk": false,
       "lowCarb": false,
       "how": "For the meatloaf: 1-1/2 pounds lean ground beef 1 cup bread crumbs or crushed crackers (or 1 cup almond flour for lower carb) 1 small onion, chopped 1 egg 1/2 cup milk 1/2 cup ketchup 1 tbsp. Worcestershire sauce 1 tsp. salt 1/2 tsp. pepper"
@@ -1097,7 +1077,7 @@
       "title": "Parmesan Chicken Shells",
       "who": "either",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 50,
       "hotOk": false,
       "lowCarb": false,
       "how": "For the filling: 1-1/2 cups ricotta cheese 1 egg 1/2 tsp. parsley 1/4 tsp. garlic powder 1/8 tsp. oregano 1/8 tsp. pepper 3/4 cup grated Parmesan cheese 2 cups shredded mozzarella cheese, divided 2 cups cooked, shredded chicken For the bake"
@@ -1107,7 +1087,7 @@
       "title": "Salisbury Steak with Onion Mushroom Gravy",
       "who": "you",
       "protein": "steak",
-      "minutes": 60,
+      "minutes": 40,
       "hotOk": true,
       "lowCarb": false,
       "how": "For the patties: 1-1/2 pounds lean ground beef 1 jar (12 ounces) beef gravy, divided* 1 egg 1/2 cup bread crumbs (or 1/2 cup almond flour) 1/2 tsp. salt 1/4 tsp. pepper 1/4 tsp. onion powder For the gravy: 1 small onion, thinly sliced 1/2 p"
@@ -1117,7 +1097,7 @@
       "title": "Sunshine Barbecue Chicken",
       "who": "either",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 55,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 Reynolds Oven Bag, large size 2 tbsp. flour (or 2 tbsp. almond flour) 1 cup barbecue sauce 1/4 cup orange juice 8 skinless chicken pieces 1. Preheat oven to 350\u00b0F. 2. Shake flour in the oven bag; place in a 13x9-inch baking dish. Add barb"
@@ -1127,7 +1107,7 @@
       "title": "Sweet and Sour Chicken",
       "who": "either",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 45,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 pound boneless, skinless chicken breasts 2 cups water 2 chicken bouillon cubes 1/2 cup brown sugar (or 3\u20134 tbsp. monk fruit baking blend + 2 tbsp. brown sugar) 4 tbsp. cornstarch 1/2 cup white vinegar 2 tbsp. Worcestershire sauce 1 can (2"
@@ -1137,7 +1117,7 @@
       "title": "Teriyaki Chicken",
       "who": "you",
       "protein": "pork",
-      "minutes": 12,
+      "minutes": 35,
       "hotOk": true,
       "lowCarb": false,
       "how": "1-1/2 lbs. boneless, skinless chicken breasts, cut in thin pieces 3/4 cup water 1/2 cup soy sauce* 3/4 to 1 cup brown sugar (or \u2153\u2013\u00bd cup monk fruit baking blend + 2\u20133 tbsp. brown sugar) 1/4 tsp. garlic powder 1/8 tsp. ground ginger 1/2 tbsp."
@@ -1147,7 +1127,7 @@
       "title": "Vegetable Beef Soup",
       "who": "either",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 420,
       "hotOk": true,
       "lowCarb": true,
       "how": "1 pound stew meat 1 can (15 ounces) crushed tomatoes 3 cups water 2 medium potatoes, peeled and cubed 2 carrots, peeled and sliced 2 celery ribs, sliced 3 beef bouillon cubes 1 large onion, diced 1 tsp. dried parsley 1/2 tsp. dried basil 1/"
@@ -1157,7 +1137,7 @@
       "title": "Chili Mac",
       "who": "either",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 40,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 pound lean ground beef 1 medium onion, chopped 1 clove garlic, minced 1 can (14-1/4 ounces) tomatoes, cut up 2 cups water 1 can (8 ounces) tomato sauce 1 tbsp. chili powder 1/2 tsp. oregano 8 ounces uncooked elbow macaroni 1 can (15-1/4 o"
@@ -1167,7 +1147,7 @@
       "title": "Parmesan Carbonara",
       "who": "you",
       "protein": "pork",
-      "minutes": 12,
+      "minutes": 25,
       "hotOk": false,
       "lowCarb": false,
       "how": "12 ounces linguine 4 eggs, beaten 1/4 cup butter, melted 1/4 cup milk 3/4 cup grated Parmesan cheese 4 slices bacon, crisply cooked and crumbled 1 tbsp. chopped parsley, optional 1/2 tsp. pepper Additional Parmesan, for serving 1. Cook the "
@@ -1187,7 +1167,7 @@
       "title": "Sweet Onion Burgers",
       "who": "you",
       "protein": "innout",
-      "minutes": 25,
+      "minutes": 30,
       "hotOk": true,
       "lowCarb": false,
       "how": "For the onions: 1 large sweet onion, sliced 1 tbsp. butter, melted 1 tsp. dry mustard 1 tsp. honey For the burgers: 1-1/2 pounds lean ground beef 1/4 cup Worcestershire sauce 1/4 tsp. salt 1/4 tsp. pepper For serving: 6 hamburger buns, onio"
@@ -1197,7 +1177,7 @@
       "title": "Turkey & Cranberry on Cinnamon Bread",
       "who": "peter",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 15,
       "hotOk": true,
       "lowCarb": false,
       "how": "For the herbed spread: 4 oz cream cheese, softened 2 tbsp avocado oil mayonnaise (in place of regular mayonnaise) 1 tsp Dijon mustard 1 tbsp finely chopped fresh chives or parsley Pinch of salt and black pepper For the cranberry relish (qui"
@@ -1207,7 +1187,7 @@
       "title": "Cap'n Crunch Chicken",
       "who": "either",
       "protein": "chicken",
-      "minutes": 12,
+      "minutes": 45,
       "hotOk": false,
       "lowCarb": false,
       "how": "For the chicken: 2-1/2 cups Cap\u2019n Crunch cereal 1 cup cornflakes 1 egg 1/2 cup milk 1/2 cup flour (or almond flour for lower carb) 1 tsp. onion powder 1 tsp. garlic powder 1/2 tsp. black pepper 2 pounds chicken breast, cut into 1-oz. tender"
@@ -1217,7 +1197,7 @@
       "title": "Cheesy Eggs Benedict",
       "who": "you",
       "protein": "pork",
-      "minutes": 12,
+      "minutes": 35,
       "hotOk": true,
       "lowCarb": false,
       "how": "For the eggs: 12 eggs, beaten 1/4 cup milk Dash of salt and pepper 1-1/2 tbsp. butter, for scrambling For the cheese sauce: 1/4 cup butter 1/4 cup flour (or almond flour) 2 cups milk Dash of salt and pepper 2 cups shredded Cheddar cheese Fo"
@@ -1227,7 +1207,7 @@
       "title": "Chicken-Vegetable Linguine",
       "who": "either",
       "protein": "chicken",
-      "minutes": 12,
+      "minutes": 30,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 cup sliced fresh mushrooms 2 tbsp. butter 1 cup cooked chicken, cut into thin strips 1 can (19 ounces) ready-to-serve cream of chicken soup 1/4 cup milk 1 cup frozen peas 1/2 cup grated Parmesan cheese 1/8 tsp. pepper 4 cups cooked lingui"
@@ -1237,7 +1217,7 @@
       "title": "Honey Mustard Pork Scallopine",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 25,
       "hotOk": false,
       "lowCarb": false,
       "how": "4 thin-cut boneless pork chops 2 tbsp. honey (or 1 tbsp. honey + 1\u20132 tsp. monk fruit sweetener) 2 tbsp. spicy mustard 1/4 cup fine dry bread crumbs (or almond flour for a lower-carb dredge) 1/4 cup finely crushed buttery crackers 2 tbsp. bu"
@@ -1247,7 +1227,7 @@
       "title": "Hearty Scrambled Eggs",
       "who": "you",
       "protein": "pork",
-      "minutes": 12,
+      "minutes": 20,
       "hotOk": false,
       "lowCarb": false,
       "how": "12 eggs 1/3 cup milk 1-1/2 cups diced fully cooked ham 1 cup shredded Colby Jack cheese 1 cup sliced fresh mushrooms 3 green onions, thinly sliced (green part included) 1/2 tsp. salt 1/4 tsp. pepper 3 tbsp. butter 1. In a bowl, beat the egg"
@@ -1257,7 +1237,7 @@
       "title": "Mushroom Beef over Pasta",
       "who": "either",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 540,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 pound beef stew meat 1 can (10-3/4 ounces) condensed cream of mushroom soup, undiluted 1 envelope dry onion soup mix 2 cups sliced fresh mushrooms 1/4 tsp. pepper Hot cooked pasta, for serving 1. Combine the beef, soup, soup mix, mushroom"
@@ -1267,7 +1247,7 @@
       "title": "Chicken and Rice Quesadillas",
       "who": "either",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 40,
       "hotOk": true,
       "lowCarb": false,
       "how": "For the chicken: 1/4 cup water 2 tbsp. vinegar 2 tbsp. avocado oil (in place of vegetable oil) 1 package (1 ounce) fajita marinade 1 pound boneless, skinless chicken breast, cut into thin strips For the Mexican rice: 1 can (14 ounces) tomat"
@@ -1277,7 +1257,7 @@
       "title": "Beef Burgundy",
       "who": "you",
       "protein": "steak",
-      "minutes": 60,
+      "minutes": 150,
       "hotOk": false,
       "lowCarb": false,
       "how": "2 pounds round steak, cut into 1-inch cubes 2 tbsp. avocado oil 1/4 cup flour 1/2 tsp. salt 1/4 tsp. pepper 1 cup beef broth 3/4 cup Burgundy wine 1 tsp. beef bouillon granules 1 clove garlic, minced 1/2 tsp. salt 1/2 tsp. seasoned salt 1/4"
@@ -1287,7 +1267,7 @@
       "title": "Grilled Pizza",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 90,
       "hotOk": false,
       "lowCarb": false,
       "how": "For the dough: 1 cup flat beer 2 tbsp. butter 2 tbsp. sugar (or 1 tbsp. sugar + 1 tbsp. monk fruit baking blend) 1 tsp. salt 2-1/2 cups all-purpose flour 1 package (2-1/4 tsp.) active dry yeast For the toppings: Olive oil, for brushing Pizz"
@@ -1297,7 +1277,7 @@
       "title": "Almond Chicken Salad",
       "who": "either",
       "protein": "chicken",
-      "minutes": 12,
+      "minutes": 20,
       "hotOk": true,
       "lowCarb": false,
       "how": "For the salad: 4 cups cubed cooked chicken 1 can (11 ounces) mandarin oranges, drained 1-1/2 cups seedless green grapes, halved 1 cup chopped celery 1/2 cup minced onion 1/2 cup slivered almonds For the dressing: 3/4 cup avocado oil mayonna"
@@ -1307,7 +1287,7 @@
       "title": "Sweet and Sour Kebabs",
       "who": "you",
       "protein": "pork",
-      "minutes": 12,
+      "minutes": 35,
       "hotOk": true,
       "lowCarb": false,
       "how": "For the glaze: 1/4 cup sugar (or 2 tbsp. monk fruit baking blend + 1 tbsp. sugar) 1 tbsp. cornstarch 3/4 cup cranberry juice 2 tbsp. cider vinegar 2 tsp. soy sauce For the kebabs: 1 pound kielbasa or smoked sausage, cut into 1-1/2-inch chun"
@@ -1317,7 +1297,7 @@
       "title": "Oriental Chicken Salad",
       "who": "either",
       "protein": "chicken",
-      "minutes": 12,
+      "minutes": 25,
       "hotOk": true,
       "lowCarb": false,
       "how": "For the salad: 1 package (3 ounces) chicken-flavor Top Ramen 2 boneless, skinless chicken breasts, cooked and cubed 1/2 head lettuce, shredded 2 green onions, thinly sliced, green tops included 2 tbsp. toasted sesame seeds 1/4 cup slivered "
@@ -1327,7 +1307,7 @@
       "title": "Beef Rice-A-Roni",
       "who": "either",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 30,
       "hotOk": true,
       "lowCarb": false,
       "how": "2 tbsp. butter 1/2 cup spaghetti, broken into 3/4-inch pieces 1/2 cup long grain rice 2 cups beef broth 1/2 envelope Lipton Golden Onion Soup Mix 1 tbsp. dried parsley 1/2 tsp. salt 1/8 tsp. pepper 1. Melt the butter in a large skillet over"
@@ -1337,7 +1317,7 @@
       "title": "Reuben Sandwiches",
       "who": "peter",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 15,
       "hotOk": true,
       "lowCarb": false,
       "how": "8 slices rye or sourdough bread 3/4 pound sliced corned beef 1 can (14 ounces) sauerkraut, well drained 4 large slices Swiss cheese 1/2 cup Thousand Island dressing (homemade with avocado oil mayonnaise, or a seed-oil-free brand) Soft butte"
@@ -1347,7 +1327,7 @@
       "title": "Homemade Pizza",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 75,
       "hotOk": true,
       "lowCarb": false,
       "how": "For the crust: 1 cup flat beer or water (use the beer!) 2 tbsp. butter 2 tbsp. sugar (or 1 tbsp. monk fruit baking blend + 1 tsp. sugar) 1 tsp. salt 2-1/2 cups all-purpose flour 1 package active dry yeast (2-1/4 tsp.) Cornmeal, for the pan "
@@ -1357,7 +1337,7 @@
       "title": "Chinese Roast Pork Buns",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 120,
       "hotOk": false,
       "lowCarb": false,
       "how": "For the pork: 1/4 cup firmly packed brown sugar (or 2 tbsp. monk fruit baking blend + 1 tbsp. brown sugar) 1/4 cup ketchup 2 tbsp. soy sauce 2 tbsp. hoisin sauce 1 tbsp. water 1 garlic clove, minced 1-1/2 lbs. pork chops (1/2 inch thick) Fo"
@@ -1367,7 +1347,7 @@
       "title": "New England Style Clam Chowder",
       "who": "you",
       "protein": "pork",
-      "minutes": 25,
+      "minutes": 50,
       "hotOk": false,
       "lowCarb": false,
       "how": "For the vegetables: 2 tbsp. butter 1 cup chopped onion 1/2 cup chopped leeks 1/2 cup chopped celery 3 cups diced, peeled potatoes 2 cans (6-1/2 ounces each) minced clams, drained and juice reserved 1 cup clam juice 1 cup water 1-1/2 tsp. sa"
@@ -1377,7 +1357,7 @@
       "title": "Turkey Tetrazzini",
       "who": "either",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 50,
       "hotOk": true,
       "lowCarb": false,
       "how": "1 package (7 ounces) spaghetti 2 cups turkey or chicken broth 2 cups half-and-half or milk 1/2 cup flour 1/4 cup butter 1/2 tsp. salt 1/4 tsp. pepper 1 tsp. chicken bouillon granules 1/2 cup grated Parmesan cheese 1 cup shredded Cheddar che"
@@ -1387,7 +1367,7 @@
       "title": "Chicken Noodle Stir Fry",
       "who": "either",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 25,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 package (3 ounces) chicken-flavored ramen noodles* 1 pound boneless, skinless chicken breasts, cut into strips 1 tbsp. avocado oil (or peanut oil) 1 cup broccoli florets 1 cup cauliflower florets 1 cup sliced celery 1 cup coarsely chopped"
@@ -1397,7 +1377,7 @@
       "title": "Sausage and Potato Skillet",
       "who": "you",
       "protein": "pork",
-      "minutes": 12,
+      "minutes": 30,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 tbsp. butter or avocado oil 4 large potatoes, peeled and cubed 1 pound smoked kielbasa, cut into small chunks 1 medium onion, chopped 1 can (7 ounces) mushroom pieces and stems, drained 1 tbsp. chopped fresh parsley Salt and pepper to tas"
@@ -1407,7 +1387,7 @@
       "title": "Italian Grilled Cheese Sandwiches",
       "who": "peter",
       "protein": "eggs",
-      "minutes": 60,
+      "minutes": 15,
       "hotOk": false,
       "lowCarb": false,
       "how": "4 slices French bread (1-inch thick) 4 slices mozzarella or provolone cheese 1/4 cup marinara or pizza sauce 3 eggs 1/2 cup milk 3/4 tsp. Italian seasoning 1/2 tsp. garlic powder 2/3 cup Italian-seasoned bread crumbs Butter, for the griddle"
@@ -1417,7 +1397,7 @@
       "title": "Tomato-Basil Pizza",
       "who": "peter",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 25,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 (12-inch) thin-crust uncooked pizza dough 1/2 tsp. garlic salt 1-1/2 tbsp. butter, melted 1-1/2 cups shredded mozzarella cheese 2 tbsp. coarsely chopped fresh basil 2 small Roma tomatoes, chopped 1 tsp. olive oil 2 tbsp. grated fresh Parm"
@@ -1427,7 +1407,7 @@
       "title": "Sausage Gravy over Biscuits",
       "who": "you",
       "protein": "innout",
-      "minutes": 60,
+      "minutes": 35,
       "hotOk": true,
       "lowCarb": false,
       "how": "For the gravy: 1 pound pork sausage 4 tbsp. flour 3 cups milk 1/4 tsp. pepper 1/8 tsp. salt 6 biscuits (recipe below) For the biscuits: 1 cup flour 1-1/2 tsp. baking powder 1-1/2 tsp. sugar (or 1 tsp. monk fruit baking blend) 1/4 tsp. cream"
@@ -1447,7 +1427,7 @@
       "title": "Ham and Cheese Bow Ties",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 45,
       "hotOk": true,
       "lowCarb": false,
       "how": "2 cups (8 ounces) uncooked bow tie pasta 1/4 cup butter (in place of margarine) 1 clove garlic, minced 1/4 cup flour 1/2 tsp. salt 1/8 tsp. pepper 2 cups milk 1/2 tsp. prepared mustard 2-1/2 cups shredded Colby cheese 4 ounces sliced cooked"
@@ -1457,7 +1437,7 @@
       "title": "Chicken Noodle Soup",
       "who": "you",
       "protein": "steak",
-      "minutes": 25,
+      "minutes": 90,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 small fryer chicken, cut up (about 2 pounds) 1 small onion, finely diced 1/2 cup diced carrots 2 stalks celery, sliced (leaves included) 3 garlic cloves, minced 3 chicken bouillon cubes 1 tsp. salt 1/2 tsp. pepper 8 cups water 1/2 cup sli"
@@ -1467,7 +1447,7 @@
       "title": "BLT Wraps",
       "who": "you",
       "protein": "pork",
-      "minutes": 12,
+      "minutes": 20,
       "hotOk": true,
       "lowCarb": false,
       "how": "6 cups lettuce leaves, coarsely chopped 1 large tomato, diced Avocado oil mayonnaise, for spreading (in place of regular mayonnaise) 8 large flour tortillas 1 pound bacon, cooked and crumbled 1 small avocado, diced (optional) 1. Combine the"
@@ -1477,7 +1457,7 @@
       "title": "Tortilla Club Wrap",
       "who": "you",
       "protein": "pork",
-      "minutes": 25,
+      "minutes": 15,
       "hotOk": false,
       "lowCarb": false,
       "how": "1/3 cup avocado oil mayonnaise (in place of regular mayonnaise) 2 tbsp. mustard* 2 tsp. honey (or 1 tsp. honey + 1/2 to 1 tsp. monk fruit sweetener) 6 large flour tortillas 6 ounces fully cooked ham 6 ounces fully cooked turkey 6 slices bac"
@@ -1487,7 +1467,7 @@
       "title": "Breakfast English Muffins",
       "who": "peter",
       "protein": "other",
-      "minutes": 25,
+      "minutes": 10,
       "hotOk": false,
       "lowCarb": false,
       "how": "4 toasted English muffins (8 halves) 1 package (3 ounces) cream cheese, softened 2 tbsp. peanut butter 2 tbsp. sliced almonds 1/4 cup honey (or 2 tbsp. honey + 1\u20132 tsp. monk fruit sweetener mixed into the cream cheese) 1. Combine the cream "
@@ -1497,7 +1477,7 @@
       "title": "Maple Brown Sugar Oatmeal",
       "who": "either",
       "protein": "other",
-      "minutes": 25,
+      "minutes": 15,
       "hotOk": false,
       "lowCarb": false,
       "how": "2 cups water 1-1/2 cups milk 2 cups quick oats 1/2 cup packed brown sugar (or 1/4 cup monk fruit baking blend + 2 tbsp. brown sugar) 1/4 cup maple syrup 1/8 tsp. ground cinnamon 1. Bring the water and milk to a boil in a medium saucepan. St"
@@ -1507,7 +1487,7 @@
       "title": "Country Chicken Casserole",
       "who": "either",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 55,
       "hotOk": true,
       "lowCarb": false,
       "how": "For the filling: 1/4 cup butter 1/3 cup flour 1/2 tsp. salt 1/4 tsp. white pepper 2 cups half-and-half 2 tsp. chicken bouillon granules 2 cups cubed cooked chicken 1 package (1 pound) frozen mixed vegetables, thawed For the topping: 1 cup f"
@@ -1517,7 +1497,7 @@
       "title": "Country Scramble Skillet",
       "who": "you",
       "protein": "pork",
-      "minutes": 12,
+      "minutes": 35,
       "hotOk": false,
       "lowCarb": false,
       "how": "For the skillet: 8 eggs 1/4 cup milk 1/4 cup green pepper, finely diced 1/4 cup onion, finely chopped 1 cup frozen shredded hash browns, thawed and patted dry 1/4 tsp. salt 1/4 tsp. pepper 1 tbsp. butter 3/4 cup shredded Cheddar cheese 1 cu"
@@ -1537,7 +1517,7 @@
       "title": "Country Wine Chicken",
       "who": "either",
       "protein": "chicken",
-      "minutes": 25,
+      "minutes": 300,
       "hotOk": false,
       "lowCarb": false,
       "how": "4 large boneless, skinless chicken breasts Salt and pepper 1 can (10-3/4 ounces) cream of mushroom soup, undiluted 1/4 cup dry white wine 1 small carrot, peeled, julienned and cut into 1/2-inch pieces 1/4 cup sliced mushrooms 1 tsp. dried p"
@@ -1547,7 +1527,7 @@
       "title": "French Toast Sticks",
       "who": "peter",
       "protein": "eggs",
-      "minutes": 60,
+      "minutes": 25,
       "hotOk": false,
       "lowCarb": false,
       "how": "4 eggs, beaten 1/3 cup milk 1 tsp. ground cinnamon 1 tsp. brown sugar (or 1/2 tsp. brown sugar + 1/2 tsp. monk fruit baking blend) 8 slices white bread Butter, for the griddle Maple syrup and/or confectioners' sugar (or powdered monk fruit)"
@@ -1567,7 +1547,7 @@
       "title": "French Bread Pizza",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 50,
       "hotOk": true,
       "lowCarb": false,
       "how": "For the sauce: 1 can (15 ounces) tomato puree 1/2 tsp. salt 1/4 tsp. pepper 1/4 tsp. garlic powder 1/4 tsp. dried basil 1/4 tsp. dried oregano 1/4 tsp. ground thyme For the bread and toppings: 1 loaf (16 ounces) French bread, cut in half (o"
@@ -1577,7 +1557,7 @@
       "title": "Breakfast Casserole",
       "who": "you",
       "protein": "innout",
-      "minutes": 60,
+      "minutes": 70,
       "hotOk": true,
       "lowCarb": true,
       "how": "8 frozen hash brown patties 3 cups shredded sharp Cheddar cheese 1 cup shredded Monterey Jack cheese 1 cup fully cooked ham, diced 1 scallion, thinly sliced 7 eggs 1 cup milk 1/2 tsp. salt 1/2 tsp. dry mustard 1/4 tsp. pepper Butter, for th"
@@ -1587,7 +1567,7 @@
       "title": "Chicken Parmesan Scallopine",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 35,
       "hotOk": true,
       "lowCarb": false,
       "how": "4 chicken breasts, pounded to 1/4-inch thick 1/4 cup flour (or almond flour for a lower-carb dredge) 1/8 tsp. salt 1/8 tsp. pepper 1 egg 2 tbsp. water 1 cup dry bread crumbs 1/2 cup grated Parmesan cheese 1 tsp. dried parsley 1/4 tsp. dried"
@@ -1597,7 +1577,7 @@
       "title": "Strawberry Stuffed French Toast",
       "who": "peter",
       "protein": "eggs",
-      "minutes": 60,
+      "minutes": 25,
       "hotOk": false,
       "lowCarb": false,
       "how": "8 slices (1-inch thick) French bread 1/2 cup strawberry jam (or no-sugar-added strawberry jam) 3 eggs 1/3 cup milk 1/8 tsp. ground cinnamon Butter, for the griddle 1. Make a pocket in each bread slice; fill with strawberry jam. 2. Whisk tog"
@@ -1607,7 +1587,7 @@
       "title": "Ravioli Lasagna",
       "who": "either",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 50,
       "hotOk": true,
       "lowCarb": false,
       "how": "1 cup small-curd cottage cheese 1 cup ricotta cheese 1 garlic clove, minced 1 jar (20 ounces) spaghetti sauce or homemade sauce 1 package (25 ounces) cheese ravioli, uncooked 2 cups shredded mozzarella cheese 1/2 cup shredded cheddar cheese"
@@ -1617,7 +1597,7 @@
       "title": "Baked Ravioli",
       "who": "peter",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 40,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 package (25 ounces) frozen ravioli 1/2 cup melted butter 1 cup Italian seasoned dry bread crumbs 1/2 cup grated Parmesan cheese 1/4 tsp. ground pepper 3 tbsp. chopped fresh parsley Jarred or homemade marinara sauce, warmed, for serving 1."
@@ -1627,7 +1607,7 @@
       "title": "Asparagus Quiche",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 50,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 cup buttermilk baking mix 3/4 cup milk 3 eggs 1 bunch fresh asparagus, cut into bite-size pieces (about 3 cups) 1/2 cup sliced fresh mushrooms 1 cup shredded Swiss cheese 1 cup shredded white cheddar cheese 1/2 cup onion, diced 1/4 tsp. g"
@@ -1637,7 +1617,7 @@
       "title": "Club Sandwiches",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 20,
       "hotOk": false,
       "lowCarb": false,
       "how": "8 large slices wheat bread Avocado oil mayonnaise, for spreading (in place of regular mayonnaise) 3/4 pound cooked turkey breast, thinly sliced 8 slices bacon, crisply cooked 8 slices tomato 4 large slices Provolone cheese 4 lettuce leaves "
@@ -1647,7 +1627,7 @@
       "title": "Wheat Germ Pancakes",
       "who": "either",
       "protein": "eggs",
-      "minutes": 12,
+      "minutes": 25,
       "hotOk": false,
       "lowCarb": false,
       "how": "For the pancakes: 1 cup flour 1/2 cup wheat germ 1 tbsp. sugar (or 1-1/2 tsp. monk fruit baking blend + 1 tsp. sugar) 1 tbsp. baking powder 1 tsp. baking soda 1/2 tsp. salt 3/4 cup orange juice 3/4 cup plain whole-milk yogurt (in place of n"
@@ -1657,7 +1637,7 @@
       "title": "Stromboli",
       "who": "peter",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 45,
       "hotOk": true,
       "lowCarb": false,
       "how": "For the honey wheat pizza dough: 1-1/2 tsp. yeast 3/4 cup warm water (105\u00b0F to 110\u00b0F) 1-1/2 cups all-purpose flour 3/4 cup whole wheat flour 3 tbsp. honey (or 2 tbsp. honey + 1 tbsp. monk fruit baking blend) 1-1/2 tbsp. olive oil 1-1/4 tsp."
@@ -1667,7 +1647,7 @@
       "title": "Honey Wheat Pizza Dough",
       "who": "either",
       "protein": "other",
-      "minutes": 12,
+      "minutes": 90,
       "hotOk": false,
       "lowCarb": false,
       "how": "1-1/2 tsp. yeast 3/4 cup warm water (105\u00b0F to 110\u00b0F) 1-1/2 cups all-purpose flour 3/4 cup whole wheat flour 3 tbsp. honey (or 2 tbsp. honey + 1 tbsp. monk fruit baking blend) 1-1/2 tbsp. olive oil 1-1/4 tsp. salt 1. Dissolve the yeast in th"
@@ -1677,7 +1657,7 @@
       "title": "Savory Grilled Ham and Cheese Sandwiches",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 15,
       "hotOk": true,
       "lowCarb": false,
       "how": "1/2 cup butter, softened (in place of margarine) Pinch brown sugar (or a pinch of monk fruit baking blend) Pinch ground red pepper (cayenne) 8 large slices sourdough bread 8 slices American cheese 1/2 pound sliced, cooked ham 8 thin tomato "
@@ -1687,7 +1667,7 @@
       "title": "Chicken and Asparagus Fettucine",
       "who": "either",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 30,
       "hotOk": true,
       "lowCarb": false,
       "how": "For the pasta: 12 ounces uncooked fettucine 2 cups fresh asparagus, cut in 2-inch pieces For the sauce: 1/2 cup butter 2 cups heavy cream (or half-and-half) 3/4 cup grated Parmesan cheese 1/4 tsp. garlic powder 1/4 tsp. pepper Dash cayenne "
@@ -1697,7 +1677,7 @@
       "title": "Asparagus Swiss Omelet",
       "who": "either",
       "protein": "eggs",
-      "minutes": 12,
+      "minutes": 15,
       "hotOk": false,
       "lowCarb": true,
       "how": "2 eggs 2 tbsp. milk 1 tbsp. butter (in place of nonstick spray) 1/2 cup fresh asparagus, cut in 2-inch pieces 1/4 cup shredded Swiss cheese Salt and pepper to taste 1. Beat together the eggs and milk. 2. Melt the butter in an 8-inch pan ove"
@@ -1707,7 +1687,7 @@
       "title": "Peanut Chicken-Vegetable Lo Mein",
       "who": "either",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 30,
       "hotOk": false,
       "lowCarb": false,
       "how": "2 large chicken breasts, thinly sliced for stir-frying 1 tbsp. avocado oil or peanut oil (plus 1 tsp. toasted sesame oil, optional) 1 cup bean sprouts 1 cup thinly julienne-cut carrots 1 cup sugar snap peas 2 cups shredded green cabbage 1/2"
@@ -1717,7 +1697,7 @@
       "title": "Hula Ham Sandwiches",
       "who": "you",
       "protein": "pork",
-      "minutes": 12,
+      "minutes": 15,
       "hotOk": false,
       "lowCarb": false,
       "how": "5 Kaiser rolls, split in half 5 tsp. Dijon mustard 5 lettuce leaves 10 slices Swiss cheese 1 pound deli-sliced smoked ham 1 can (20 ounces) pineapple slices, drained and patted dry 5 tsp. avocado oil mayonnaise (in place of regular mayonnai"
@@ -1727,7 +1707,7 @@
       "title": "Grilled Peppered Steak",
       "who": "you",
       "protein": "steak",
-      "minutes": 12,
+      "minutes": 25,
       "hotOk": true,
       "lowCarb": false,
       "how": "2 tsp. coarse black pepper 1 tsp. onion salt 1 tsp. garlic salt 4 strip steaks (New York strip), about 8 ounces each 1. Combine the pepper, onion salt, and garlic salt. Pat the steaks dry, then rub the spice mix on both sides. Let stand in "
@@ -1737,7 +1717,7 @@
       "title": "Grilled Italian Sub Sandwich",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 25,
       "hotOk": false,
       "lowCarb": false,
       "how": "2 loaves (8 ounces each) French or sourdough bread 4 tbsp. mustard 8 ounces pastrami, thinly sliced 8 ounces smoked ham, thinly sliced 2 roma tomatoes, thinly sliced Red onion rings 4 large slices Provolone cheese 4 tbsp. avocado oil Italia"
@@ -1747,7 +1727,7 @@
       "title": "BBQ Chicken Burritos",
       "who": "either",
       "protein": "chicken",
-      "minutes": 12,
+      "minutes": 35,
       "hotOk": true,
       "lowCarb": false,
       "how": "For the chicken: 4 large boneless, skinless chicken breasts 1/2 cup barbecue sauce (or no-sugar-added barbecue sauce) For the burritos: 6 large flour tortillas 3 cups shredded lettuce 1 cup shredded Cheddar cheese 1 cup shredded Monterey Ja"
@@ -1757,7 +1737,7 @@
       "title": "Peaches and Cream French Toast",
       "who": "peter",
       "protein": "eggs",
-      "minutes": 60,
+      "minutes": 25,
       "hotOk": false,
       "lowCarb": false,
       "how": "For the toast: 1 loaf (8 ounces) unsliced French bread Butter, for the griddle For the filling: 1 package (3 ounces) cream cheese, softened 3 tbsp. peach preserves (or no-sugar-added peach preserves) 1 tsp. brown sugar (or 1/2 tsp. brown su"
@@ -1767,7 +1747,7 @@
       "title": "Peach Oatmeal",
       "who": "either",
       "protein": "other",
-      "minutes": 25,
+      "minutes": 15,
       "hotOk": false,
       "lowCarb": false,
       "how": "3 cups old-fashioned oats 1/3 cup dried cranberries (or unsweetened dried cranberries) 1/4 tsp. salt 1/4 tsp. ground cinnamon 5 cups water 1 can (16 ounces) sliced peaches, drained and chopped 6 tbsp. brown sugar, or to taste (or 3 tbsp. mo"
@@ -1777,7 +1757,7 @@
       "title": "Cheddar Pie Crust",
       "who": "peter",
       "protein": "chicken",
-      "minutes": 25,
+      "minutes": 45,
       "hotOk": false,
       "lowCarb": false,
       "how": "1-1/3 cups flour 1/4 tsp. salt 1/3 cup cold butter, cut into pieces (in place of shortening) 1/4 cup cold butter, cut into pieces 1 cup grated sharp Cheddar cheese 1/2 tsp. vinegar mixed with 1/3 cup cold water 1. Combine the flour and salt"
@@ -1787,7 +1767,7 @@
       "title": "Mom's Meatloaf",
       "who": "peter",
       "protein": "eggs",
-      "minutes": 60,
+      "minutes": 70,
       "hotOk": false,
       "lowCarb": false,
       "how": "1-1/2 pounds lean ground beef 1 cup crushed crackers (Ritz) (or 1 cup almond flour for lower carb) 1 small onion, chopped 1 egg 1/2 cup milk 1/2 cup ketchup, divided 1 tbsp. Worcestershire sauce 1 tsp. salt 1/2 tsp. pepper 1. Heat the oven "
@@ -1797,7 +1777,7 @@
       "title": "Crockpot Pot Roast",
       "who": "either",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 480,
       "hotOk": false,
       "lowCarb": true,
       "how": "1 beef roast (3 to 5 pounds) 4 large potatoes, peeled and quartered 6 large carrots, peeled and cut into chunks 1 large onion, peeled and quartered 5 cloves garlic, minced 3/4 cup beef broth or red wine 1 tbsp. dried parsley Pinch dried thy"
@@ -1807,7 +1787,7 @@
       "title": "Hot Rice Cereal",
       "who": "either",
       "protein": "other",
-      "minutes": 12,
+      "minutes": 15,
       "hotOk": true,
       "lowCarb": false,
       "how": "1-1/2 cups cooked white rice 1/2 cup milk 1 tsp. vanilla 1/4 cup packed brown sugar (or 2 tbsp. monk fruit baking blend + 1 tbsp. brown sugar) 1/4 tsp. ground cinnamon 1/4 cup raisins or other dried fruit, optional Additional milk and brown"
@@ -1817,7 +1797,7 @@
       "title": "German Apple Pancake (Puff Pancake)",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 40,
       "hotOk": false,
       "lowCarb": false,
       "how": "2 large cooking apples 1/4 cup butter, divided 1 cup flour 1 cup milk 6 eggs 1 tsp. vanilla 1/2 tsp. salt 1/4 tsp. grated nutmeg Confectioners\u2019 sugar (or powdered monk fruit), for dusting Maple syrup, for serving 1. Preheat the oven to 475\u00b0"
@@ -1827,7 +1807,7 @@
       "title": "Banana Pancakes",
       "who": "either",
       "protein": "eggs",
-      "minutes": 12,
+      "minutes": 25,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 cup flour 1 tbsp. baking powder 1 tbsp. sugar (or 1-1/2 tsp. monk fruit baking blend + 1 tsp. sugar) 1/2 tsp. salt 1/2 tsp. ground cinnamon 1 egg 1 large ripe banana, mashed 1 cup milk Butter, for the griddle 1. Combine the flour, baking "
@@ -1837,7 +1817,7 @@
       "title": "Swiss Dip Sandwiches",
       "who": "peter",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 30,
       "hotOk": false,
       "lowCarb": false,
       "how": "2 loaves (8 ounces each) French or Italian bread, sliced in half horizontally 1/4 cup butter 2 pounds thinly sliced cooked roast beef 8 ounces thinly sliced Swiss cheese 1 envelope Lipton Beefy Onion soup mix 2 cups water 1. Heat the oven t"
@@ -1857,7 +1837,7 @@
       "title": "Beef Barley Stew",
       "who": "either",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 300,
       "hotOk": false,
       "lowCarb": true,
       "how": "1-1/2 pounds beef stew meat, cut into 1-inch pieces 1 medium onion, chopped 3 medium carrots, peeled and cut into 1/2-inch pieces 2 large potatoes, peeled and cut into small chunks 1 celery rib, thinly sliced 4 cups beef broth 1 can (15 oun"
@@ -1867,7 +1847,7 @@
       "title": "Cashew Chicken Stir-Fry",
       "who": "either",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 35,
       "hotOk": false,
       "lowCarb": false,
       "how": "2 tbsp. avocado oil 2 cups chicken broth 1/4 cup cornstarch 3 tbsp. soy sauce 2 tbsp. brown sugar (or 1 tbsp. monk fruit baking blend + 1 tsp. brown sugar) 1/8 tsp. ground ginger 1 pound boneless, skinless chicken breasts, cut into 1/2-inch"
@@ -1877,7 +1857,7 @@
       "title": "Barbecue Chicken Pizza",
       "who": "peter",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 90,
       "hotOk": false,
       "lowCarb": false,
       "how": "For the crust: 3/4 cup warm water (105\u00b0F to 115\u00b0F) 2 tbsp. butter 2 tbsp. honey (or 1 tbsp. honey + 1 tbsp. monk fruit baking blend) 1 tsp. salt 2 cups all-purpose flour 1-1/2 tsp. active dry yeast Cornmeal, for the pan For the pizza: 2 cup"
@@ -1887,7 +1867,7 @@
       "title": "Cinnamon-Nutmeg French Toast",
       "who": "peter",
       "protein": "eggs",
-      "minutes": 60,
+      "minutes": 25,
       "hotOk": false,
       "lowCarb": false,
       "how": "5 eggs 1/2 cup milk 1/2 tsp. vanilla extract 1/2 tsp. ground cinnamon 1/4 tsp. ground nutmeg 1 loaf (16 ounces) sliced Italian or French bread (1/4 to 1/2-inch thick) Butter, for the griddle (in place of nonstick spray) Maple syrup, for ser"
@@ -1897,7 +1877,7 @@
       "title": "Ham and Beans",
       "who": "you",
       "protein": "pork",
-      "minutes": 12,
+      "minutes": 120,
       "hotOk": true,
       "lowCarb": false,
       "how": "1 bag (16 ounces) great northern beans 1/2 pound diced cooked ham 1 small onion, diced 1/3 cup packed brown sugar (a large handful; or 3 tbsp. monk fruit baking blend + 1 tbsp. brown sugar) Salt and pepper to taste Dash cayenne pepper 1 tbs"
@@ -1907,7 +1887,7 @@
       "title": "Almond Pork Stir-Fry with Couscous",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 35,
       "hotOk": false,
       "lowCarb": false,
       "how": "For the sauce: 2 cups chicken broth 1/4 cup cornstarch 3 tbsp. soy sauce 3 tbsp. packed brown sugar (or 1-1/2 tbsp. monk fruit baking blend + 1 tbsp. brown sugar) 1/8 tsp. ground ginger For the stir-fry: 2 tbsp. avocado oil or peanut oil, d"
@@ -1917,7 +1897,7 @@
       "title": "Bacon, Egg & Potato Casserole",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 70,
       "hotOk": false,
       "lowCarb": false,
       "how": "1/2 pound bacon 1 small onion, diced 1/4 cup diced green pepper 12 eggs 1 cup milk 1 package (16 ounces) frozen hash brown potatoes, thawed 1 cup shredded sharp Cheddar cheese 1 tsp. salt 1/2 tsp. pepper Pinch paprika Butter, for the dish 1"
@@ -1927,7 +1907,7 @@
       "title": "Blueberry Sour Cream Pancakes",
       "who": "either",
       "protein": "eggs",
-      "minutes": 25,
+      "minutes": 30,
       "hotOk": false,
       "lowCarb": false,
       "how": "2 cups flour 1-1/2 tbsp. sugar (or 2 tsp. monk fruit baking blend + 1 tsp. sugar) 1 tbsp. baking powder 1/4 tsp. salt 2 eggs 1-1/2 cups milk 1/3 cup sour cream 3 tbsp. melted butter 3/4 cup fresh or frozen blueberries Butter, for the griddl"
@@ -1937,7 +1917,7 @@
       "title": "Chicken Wild Rice Casserole",
       "who": "either",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 55,
       "hotOk": true,
       "lowCarb": false,
       "how": "1 small onion, diced 1 stalk celery, sliced 1 large clove garlic, minced 3 tbsp. butter 3 cups cooked wild rice 2 cups cooked, diced chicken 1 can (4 ounces) sliced mushrooms, drained 1 can (10-3/4 ounces) condensed cream of mushroom soup, "
@@ -1947,7 +1927,7 @@
       "title": "Vanilla French Toast",
       "who": "peter",
       "protein": "eggs",
-      "minutes": 60,
+      "minutes": 20,
       "hotOk": true,
       "lowCarb": false,
       "how": "5 eggs 1/2 cup milk 2 tbsp. vanilla extract 1/4 tsp. ground cinnamon 1 loaf (16 ounces) sliced Italian or French bread (1/4 to 1/2-inch thick) Butter, for the griddle Maple syrup, for serving Fresh berries, optional 1. In a shallow dish, be"
@@ -1957,7 +1937,7 @@
       "title": "Hamburger Stroganoff",
       "who": "you",
       "protein": "steak",
-      "minutes": 12,
+      "minutes": 30,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 to 1-1/2 pounds lean ground beef 1 small onion, chopped 2 cloves garlic, minced 1-1/2 cups beef broth 1 cup sliced fresh mushrooms 1/2 tsp. salt 1/4 tsp. pepper 2/3 cup sour cream 2 tbsp. flour Hot cooked egg noodles 1. Brown the meat, on"
@@ -1977,7 +1957,7 @@
       "title": "Apple-Nut Hot Cakes",
       "who": "peter",
       "protein": "eggs",
-      "minutes": 60,
+      "minutes": 30,
       "hotOk": false,
       "lowCarb": false,
       "how": "1-1/2 cups flour 1/3 cup ground pecans 3 tbsp. sugar (or 1-1/2 tbsp. monk fruit baking blend + 1 tbsp. sugar) 1 tbsp. baking powder 3/4 tsp. salt 1/2 tsp. ground cinnamon 1-1/2 cups milk 5 tbsp. melted butter 2 egg whites 1/2 cup shredded, "
@@ -1987,7 +1967,7 @@
       "title": "Oatmeal Pancakes",
       "who": "peter",
       "protein": "eggs",
-      "minutes": 60,
+      "minutes": 25,
       "hotOk": false,
       "lowCarb": false,
       "how": "For the overnight soak: 2 cups old-fashioned rolled oats 2 cups buttermilk For the batter: 1/2 cup flour 1/2 cup whole wheat flour 2 tsp. sugar (or 1 tsp. monk fruit baking blend) 1-1/2 tsp. baking powder 1-1/2 tsp. baking soda 1 tsp. salt "
@@ -1997,7 +1977,7 @@
       "title": "Grilled Apricot Chicken",
       "who": "either",
       "protein": "chicken",
-      "minutes": 25,
+      "minutes": 35,
       "hotOk": false,
       "lowCarb": false,
       "how": "4 boneless, skinless chicken breasts 1/2 cup apricot jam (or 1/4 cup apricot jam + 2 tbsp. monk fruit sweetener) 1 tbsp. white wine* 1/8 tsp. coarse ground pepper Pinch salt Salt and pepper, for the chicken 1. Lightly sprinkle the chicken b"
@@ -2017,7 +1997,7 @@
       "title": "Barbecue Ham Pizza",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 90,
       "hotOk": true,
       "lowCarb": false,
       "how": "For the crust: 3/4 cup warm water (105\u00b0F to 115\u00b0F) 2 tbsp. butter 2 tbsp. honey (or 1 tbsp. honey + 1 tbsp. monk fruit baking blend) 1 tsp. salt 2 cups all-purpose flour 1-1/2 tsp. active dry yeast Cornmeal, for the pan For the pizza: 2 cup"
@@ -2037,7 +2017,7 @@
       "title": "Chicken Pecan Pitas",
       "who": "peter",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 20,
       "hotOk": true,
       "lowCarb": false,
       "how": "For the filling: 3 cups cubed, cooked chicken 1 can (8-1/4 ounces) crushed pineapple, drained 1/2 cup chopped pecans 1/2 cup finely chopped celery 1/4 cup minced onion For the dressing: 1/2 cup avocado oil mayonnaise (in place of regular ma"
@@ -2047,7 +2027,7 @@
       "title": "Steak in Pepper Cream",
       "who": "you",
       "protein": "steak",
-      "minutes": 12,
+      "minutes": 30,
       "hotOk": false,
       "lowCarb": false,
       "how": "1/4 tsp. salt 2 (12-ounce) New York strip steaks (3/4-inch thick) 2 tbsp. green peppercorns (brined, drained) 2 tbsp. steak sauce (seed-oil-free) 2 tbsp. water 1 cup whipping cream 1/4 tsp. ground pepper 1. Place a 10-inch cast-iron skillet"
@@ -2057,7 +2037,7 @@
       "title": "Cinnamon Apple Pancakes",
       "who": "either",
       "protein": "eggs",
-      "minutes": 25,
+      "minutes": 30,
       "hotOk": false,
       "lowCarb": false,
       "how": "2 cups flour 1 tsp. baking soda 2 tsp. baking powder 1 tbsp. brown sugar (or 1-1/2 tsp. monk fruit baking blend + 1 tsp. brown sugar) 1 tsp. salt 1 tsp. ground cinnamon 2 eggs 1-1/2 cups buttermilk 1/2 cup sour cream 1/4 cup butter, melted "
@@ -2067,7 +2047,7 @@
       "title": "BBQ Joes",
       "who": "either",
       "protein": "other",
-      "minutes": 25,
+      "minutes": 30,
       "hotOk": false,
       "lowCarb": false,
       "how": "2 pounds ground beef 1/2 cup chopped onion 1/2 cup finely chopped green pepper 1 can (10-3/4 ounces) condensed tomato soup, undiluted (seed-oil-free, or 1-1/4 cups tomato sauce) 1 cup barbecue sauce (seed-oil-free) 1/3 cup packed brown suga"
@@ -2077,7 +2057,7 @@
       "title": "Pumpkin Waffles",
       "who": "peter",
       "protein": "eggs",
-      "minutes": 60,
+      "minutes": 30,
       "hotOk": false,
       "lowCarb": false,
       "how": "2 cups flour 1/4 cup sugar (or 2 tbsp. monk fruit baking blend + 1 tbsp. sugar) 4 tsp. baking powder 1 tsp. salt 1 tsp. ground cinnamon 1/2 tsp. ground nutmeg 1/2 tsp. ground cloves 1-1/2 cups milk 1 cup canned pumpkin 3/4 cup butter, melte"
@@ -2087,7 +2067,7 @@
       "title": "Creamy Chicken Noodle Casserole",
       "who": "either",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 55,
       "hotOk": true,
       "lowCarb": false,
       "how": "8 ounces garden rotini pasta 1/2 cup butter 1/2 cup flour 2 cups chicken broth 1 cup milk 1/2 tsp. salt Pepper to taste 2 cups cooked chicken, cut up 1 cup frozen peas and carrots 3 tbsp. grated Parmesan cheese Butter, for the dish 1. Cook "
@@ -2097,7 +2077,7 @@
       "title": "Apple Breakfast Sandwiches",
       "who": "peter",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 15,
       "hotOk": false,
       "lowCarb": false,
       "how": "For the spread: 1/2 cup cream cheese, softened (in place of light cream cheese) 2 tbsp. peanut butter 1-1/2 tbsp. apple butter 1/8 tsp. ground cinnamon 1/3 cup grated or finely chopped peeled apple For the sandwiches: 12 slices raisin bread"
@@ -2107,7 +2087,7 @@
       "title": "Applesauce Sausage Bites",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 45,
       "hotOk": false,
       "lowCarb": false,
       "how": "2 pounds smoked sausage or kielbasa 1 cup applesauce 2/3 cup packed brown sugar (or 1/3 cup monk fruit baking blend + 2 tbsp. brown sugar) 1 small white onion, finely chopped 1. Cut the sausage into desired-size pieces. In a large baking di"
@@ -2117,7 +2097,7 @@
       "title": "Creamed Dried Beef",
       "who": "you",
       "protein": "pork",
-      "minutes": 12,
+      "minutes": 20,
       "hotOk": false,
       "lowCarb": false,
       "how": "1/4 pound dried beef 1/4 cup butter 1/4 cup flour 1 cup hot milk 1 cup half-and-half 1/4 tsp. pepper 1. Separate the slices of beef; chop into small pieces. 2. Melt the butter in a medium saucepan. Whisk in the flour and cook for one minute"
@@ -2127,7 +2107,7 @@
       "title": "Cheese Quesadillas",
       "who": "either",
       "protein": "other",
-      "minutes": 12,
+      "minutes": 20,
       "hotOk": false,
       "lowCarb": false,
       "how": "8 (10-inch) flour tortillas 1/4 cup butter 1 package (3 ounces) cream cheese 1/4 cup finely chopped green onions 1 medium tomato, finely chopped Dash salt 3 cups shredded Colby Jack cheese 1 can (4 ounces) diced jalape\u00f1o, optional Sour crea"
@@ -2137,7 +2117,7 @@
       "title": "Hot Wings",
       "who": "either",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 70,
       "hotOk": false,
       "lowCarb": true,
       "how": "2 pounds chicken wings 1/4 cup hot sauce (such as Tabasco) 1/4 cup melted butter Blue cheese or ranch dressing, optional Celery sticks, optional 1. Arrange the wings on a large baking sheet. Bake at 425\u00b0F for 1 hour. 2. Combine the hot sauc"
@@ -2147,7 +2127,7 @@
       "title": "Baked Blueberry French Toast",
       "who": "peter",
       "protein": "eggs",
-      "minutes": 60,
+      "minutes": 75,
       "hotOk": false,
       "lowCarb": false,
       "how": "For the casserole: 1 loaf (14 ounces) French or Italian bread 1 package (8 ounces) cream cheese (in place of light), cut in small bits 1 cup fresh or frozen blueberries Butter, for the pan For the custard: 12 eggs 2 cups whole milk 1/3 cup "
@@ -2157,7 +2137,7 @@
       "title": "Tamale Pie",
       "who": "peter",
       "protein": "other",
-      "minutes": 60,
+      "minutes": 45,
       "hotOk": true,
       "lowCarb": false,
       "how": "For the filling: 1/2 pound lean ground beef 1 small onion, chopped 1/2 cup green pepper, chopped 1 clove garlic, minced 1 can (15 ounces) tomato sauce 1 cup frozen corn 1 can (4 ounces) sliced black olives, drained 1 tbsp. sugar (or 1 tsp. "
@@ -2167,7 +2147,7 @@
       "title": "Minnesota Wild Rice Soup",
       "who": "either",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 40,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 box long-grain and wild rice mix with herb seasoning (such as Uncle Ben's), prepared according to package directions 4 tbsp. butter 2 tbsp. minced onion 1 cup finely chopped celery 1/2 cup flour 6 cups chicken stock 1-1/2 cups light cream"
@@ -2177,7 +2157,7 @@
       "title": "Crispy Buffalo Chicken Strips",
       "who": "you",
       "protein": "steak",
-      "minutes": 60,
+      "minutes": 40,
       "hotOk": false,
       "lowCarb": false,
       "how": "For the dredge: 1/2 cup flour (or almond flour for lower carb) 1/4 tsp. cayenne pepper 1/8 tsp. salt For the wash: 1/4 cup buttermilk (in place of lowfat) 1/4 cup whole milk 1 egg, beaten 3 tsp. hot pepper sauce For the coating: 2 cups fine"
@@ -2187,7 +2167,7 @@
       "title": "Potato Cheese Quesadillas",
       "who": "either",
       "protein": "other",
-      "minutes": 12,
+      "minutes": 15,
       "hotOk": true,
       "lowCarb": false,
       "how": "2 flour tortillas 2 tbsp. cream cheese (regular or flavored) 1 small baked potato, sliced into 1/4-inch slices 2 ounces shredded Monterey Jack cheese 1 green onion, thinly sliced (green tops included) Butter, for the skillet Salsa, optional"
@@ -2197,7 +2177,7 @@
       "title": "Smoked Turkey & Mango Wraps",
       "who": "either",
       "protein": "chicken",
-      "minutes": 12,
+      "minutes": 15,
       "hotOk": true,
       "lowCarb": false,
       "how": "4 flour tortillas (8 inches) 4 tsp. avocado oil mayonnaise (in place of lite mayonnaise) 4 tsp. Dijon mustard 2 tsp. honey (or 1 tsp. honey + 1/2 tsp. monk fruit sweetener) 8 ounces smoked turkey or chicken breast, thinly sliced 2 mangoes, "
@@ -2207,7 +2187,7 @@
       "title": "Aloha Burgers",
       "who": "you",
       "protein": "innout",
-      "minutes": 12,
+      "minutes": 40,
       "hotOk": true,
       "lowCarb": false,
       "how": "8 pineapple slices 1 cup teriyaki sauce, divided 1-1/4 pounds ground beef 1 small sweet onion, sliced 1 tbsp. butter, for the onions (in place of cooking spray) 4 lettuce leaves 4 slices Swiss cheese 4 sesame seed buns 1. Place the pineappl"
@@ -2217,7 +2197,7 @@
       "title": "Monte Cristo Sandwich",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 20,
       "hotOk": false,
       "lowCarb": false,
       "how": "4 slices firm bread 4 tsp. raspberry preserves (or sugar-free raspberry preserves) 2 ounces very thinly sliced smoked ham 2 slices Swiss cheese (2 ounces) 1/4 cup milk 1 egg 1 tbsp. butter, for the pan (in place of cooking spray) 1 tsp. sif"
@@ -2227,7 +2207,7 @@
       "title": "Peanut Butter & Banana Quesadillas",
       "who": "either",
       "protein": "other",
-      "minutes": 12,
+      "minutes": 15,
       "hotOk": false,
       "lowCarb": false,
       "how": "4 flour tortillas 4 tbsp. peanut butter 2 small bananas, diced Butter, for the griddle (in place of cooking spray) 1. Spread 1 tablespoon peanut butter on each tortilla. Place the diced banana over half of each tortilla; fold the other half"
@@ -2237,7 +2217,7 @@
       "title": "Fruit 'N Cream Roll Ups",
       "who": "either",
       "protein": "other",
-      "minutes": 12,
+      "minutes": 10,
       "hotOk": false,
       "lowCarb": false,
       "how": "4 flour tortillas 4 tbsp. cream cheese, softened (in place of light or fat-free cream cheese) 4 tsp. fruit preserves, any flavor (or sugar-free preserves) Fresh sliced fruit (peaches or strawberries are favorites) 1 tsp. cinnamon sugar (or "
@@ -2247,7 +2227,7 @@
       "title": "Blueberry Buttermilk Pancakes",
       "who": "either",
       "protein": "eggs",
-      "minutes": 25,
+      "minutes": 30,
       "hotOk": false,
       "lowCarb": false,
       "how": "1-1/2 cups flour 2 tbsp. sugar (or 2 tsp. monk fruit baking blend + 1 tsp. sugar) 1 tsp. baking powder 1/2 tsp. baking soda 1/2 tsp. salt 1-3/4 cups buttermilk 1/4 cup water 1 egg, beaten 2 tbsp. butter, melted (in place of reduced-calorie "
@@ -2257,7 +2237,7 @@
       "title": "Sesame Chicken with Peanut Sauce",
       "who": "either",
       "protein": "chicken",
-      "minutes": 12,
+      "minutes": 30,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 cup basmati rice 2 tbsp. creamy peanut butter 1/4 cup honey (or 2 tbsp. honey + 1\u20132 tbsp. monk fruit sweetener) 3/4 cup chicken broth 2 tbsp. soy sauce 1/4 tsp. ground ginger 1/8 tsp. cayenne pepper 2 cloves garlic, minced 1 tbsp. cornsta"
@@ -2267,7 +2247,7 @@
       "title": "Asparagus-Turkey Au Gratin",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 25,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 tbsp. butter 2 tbsp. flour (or almond flour for a lower-carb sauce) 1 cup milk 1 cup grated Cheddar cheese 4 slices bread, toasted and buttered 1 package (10 ounces) frozen asparagus spears, cooked and drained (or an equal amount of fresh"
@@ -2277,7 +2257,7 @@
       "title": "Spicy Pecan Pork",
       "who": "you",
       "protein": "pork",
-      "minutes": 12,
+      "minutes": 30,
       "hotOk": false,
       "lowCarb": false,
       "how": "12 ounces boneless pork loin 1 egg, beaten 1/2 cup milk 1/3 cup finely crushed cornflakes 1/3 cup ground pecans 1/2 tsp. ground red pepper 1/3 cup flour (or almond flour for a lower-carb dredge) 1/8 tsp. salt 1/8 tsp. pepper 2 tbsp. avocado"
@@ -2287,7 +2267,7 @@
       "title": "Strawberry Filled Crepes",
       "who": "either",
       "protein": "eggs",
-      "minutes": 12,
+      "minutes": 35,
       "hotOk": false,
       "lowCarb": false,
       "how": "For the strawberry sauce: 1/2 cup sugar (or \u2153\u2013\u00bd cup monk fruit baking blend + 2 tbsp. sugar) 1 pint strawberries, sliced 1-1/2 tbsp. cornstarch dissolved in 1/4 cup cold water For the crepes: 3/4 cup flour 1/2 tsp. salt 1 tsp. baking powder"
@@ -2297,7 +2277,7 @@
       "title": "Turkey Divan",
       "who": "either",
       "protein": "chicken",
-      "minutes": 60,
+      "minutes": 45,
       "hotOk": false,
       "lowCarb": false,
       "how": "1 bunch broccoli, or 2 packages (10 ounces each) frozen broccoli spears 1/4 cup butter 1/4 cup flour (or almond flour for a lower-carb sauce) 2 cups milk 2 tsp. chicken bouillon granules 3/4 pound sliced turkey or chicken 1/4 cup grated Par"
@@ -2307,7 +2287,7 @@
       "title": "70/30 Short Rib & Brisket Burger",
       "who": "you",
       "protein": "innout",
-      "minutes": 12,
+      "minutes": 45,
       "hotOk": true,
       "lowCarb": false,
       "how": "- 1 lb 5 oz boneless short rib, well-trimmed of excess exterior fat - 9 oz beef brisket (point preferred for extra marbling) - 1\u00bd tsp kosher salt - \u00be tsp freshly ground black pepper - Optional: \u00bd tsp garlic powder For cooking: - 1\u20132 Tbsp bu"
@@ -2317,7 +2297,7 @@
       "title": "Bacon Corn Chowde",
       "who": "you",
       "protein": "pork",
-      "minutes": 25,
+      "minutes": 45,
       "hotOk": false,
       "lowCarb": false,
       "how": "6 slices thick-cut bacon, chopped 1 medium yellow onion, diced 2 cloves garlic, minced 3 medium Yukon Gold potatoes, peeled and diced (or 1 small head cauliflower for lower carb) 3 cups chicken or pork stock 2 cups corn kernels (fresh or fr"
@@ -2327,7 +2307,7 @@
       "title": "Ham & Potato Chowder",
       "who": "you",
       "protein": "pork",
-      "minutes": 12,
+      "minutes": 40,
       "hotOk": true,
       "lowCarb": false,
       "how": "2 tbsp butter 1 medium yellow onion, diced 2 cloves garlic, minced 3 medium potatoes, peeled and diced (or cauliflower) 3 cups chicken or pork stock 1\u00bd\u20132 cups diced cooked ham 1 cup heavy cream \u00bd tsp dried thyme or a pinch of smoked paprika"
@@ -2337,7 +2317,7 @@
       "title": "Pan-Seared Pork Chops with Rosemary Caramelized Pears, Gorgonzola & Toasted Waln",
       "who": "you",
       "protein": "pork",
-      "minutes": 12,
+      "minutes": 35,
       "hotOk": true,
       "lowCarb": false,
       "how": "For the Arugula & Pear Salad: 4\u20135 cups baby arugula \u00bd ripe but firm pear, thinly sliced (same variety as the main) 1 small shallot, very thinly sliced 2 Tbsp fresh lemon juice 3 Tbsp avocado oil Salt and black pepper to taste Optional: smal"
@@ -2347,7 +2327,7 @@
       "title": "Eggplant, Swiss Chard & Egg Bake",
       "who": "peter",
       "protein": "eggs",
-      "minutes": 60,
+      "minutes": 55,
       "hotOk": false,
       "lowCarb": false,
       "how": "For the vegetables: 1 medium eggplant (about 1 lb), cut into \u00bd-inch rounds or half-moons 1 large bunch Swiss chard, stems and leaves separated 3\u20134 Tbsp grass-fed butter, divided Salt and black pepper For the egg custard: 6\u20137 large eggs \u2153 cu"
@@ -2357,7 +2337,7 @@
       "title": "Baked Eggs Florentine (cream + Parmesan)",
       "who": "you",
       "protein": "pork",
-      "minutes": 60,
+      "minutes": 25,
       "hotOk": false,
       "lowCarb": false,
       "how": "Makes 2 ramekins Ingredients \u2022 1 Tbsp butter or ghee \u2022 2 big handfuls fresh spinach (or ~1 cup cooked, squeezed dry) \u2022 Salt and pepper \u2022 Pinch nutmeg (optional) \u2022 \u00bc cup heavy cream \u2022 \u2153 cup freshly grated Parmesan, divided \u2022 2\u20134 eggs (1 or 2"
@@ -2367,7 +2347,7 @@
       "title": "Lime-bright skillet chicken fajitas",
       "who": "either",
       "protein": "chicken",
-      "minutes": 12,
+      "minutes": 35,
       "hotOk": false,
       "lowCarb": false,
       "how": "Serves 2\u20133 \u2022 1\u00bd lb boneless chicken thighs, sliced in strips \u2022 2 Tbsp lime juice (the part you liked) + 1 tsp lime zest \u2022 1 tsp chili powder, 1 tsp cumin, \u00bd tsp salt, \u00bd tsp smoked paprika, black pepper \u2022 1 Tbsp avocado oil or ghee \u2022 1 onion"
