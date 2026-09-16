@@ -1,6 +1,6 @@
 {
   "about": "Chase file. The Pi overwrites this. Two Plates only reads this. Weather and calendar still decide the night; this list is the menu that has to fit.",
-  "updated": "2026-09-15",
+  "updated": "2026-09-16",
   "recipes": [
     {
       "id": "steak",
@@ -2351,6 +2351,16 @@
       "hotOk": false,
       "lowCarb": false,
       "how": "Serves 2\u20133 \u2022 1\u00bd lb boneless chicken thighs, sliced in strips \u2022 2 Tbsp lime juice (the part you liked) + 1 tsp lime zest \u2022 1 tsp chili powder, 1 tsp cumin, \u00bd tsp salt, \u00bd tsp smoked paprika, black pepper \u2022 1 Tbsp avocado oil or ghee \u2022 1 onion"
+    },
+    {
+      "id": "chicken-guacamato",
+      "title": "Chicken Guacamato",
+      "who": "either",
+      "protein": "chicken",
+      "minutes": 60,
+      "hotOk": false,
+      "lowCarb": true,
+      "how": "2 Chicken Breast 1 Heirloom tomato 1 Avocado Balsamic Vinegar Rosemary Olive oil Preheat the oven to 400 Season the chicken Bake the chicken at 400 for 20 minutes While the chicken is baking, Slice tomato and Avocado Peter last made this 9."
     }
   ]
 }
