@@ -1,6 +1,6 @@
 {
   "about": "Chase file. The Pi overwrites this. Two Plates only reads this. Weather and calendar still decide the night; this list is the menu that has to fit.",
-  "updated": "2026-09-18",
+  "updated": "2026-09-19",
   "recipes": [
     {
       "id": "steak",
@@ -2361,6 +2361,26 @@
       "hotOk": false,
       "lowCarb": true,
       "how": "2 Chicken Breast 1 Heirloom tomato 1 Avocado Balsamic Vinegar Rosemary Olive oil Preheat the oven to 400 Season the chicken Bake the chicken at 400 for 20 minutes While the chicken is baking, Slice tomato and Avocado Peter last made this 9."
+    },
+    {
+      "id": "dolly-parton-s-favorite-pimento-cheese-sandwich",
+      "title": "Dolly Parton\u2019s Favorite Pimento Cheese Sandwich",
+      "who": "peter",
+      "protein": "eggs",
+      "minutes": 15,
+      "hotOk": false,
+      "lowCarb": false,
+      "how": "For the spread: - 2 cups shredded sharp cheddar cheese - 8 oz cream cheese, softened and cubed - 3 Tbsp diced dill pickles - 2 Tbsp diced pimentos, drained - 2 heaping Tbsp mayonnaise (avocado-oil mayo) - 1 hard-boiled egg, peeled and grate"
+    },
+    {
+      "id": "dolly-parton-s-5-ingredient-chicken-casserole",
+      "title": "Dolly Parton\u2019s 5-Ingredient Chicken Casserole",
+      "who": "you",
+      "protein": "pork",
+      "minutes": 40,
+      "hotOk": true,
+      "lowCarb": false,
+      "how": "- 3 cups cooked, shredded chicken (rotisserie is the usual shortcut) - 1 (10.5 oz) can cream of chicken soup (or homemade cream-of-chicken sauce, see Notes) - 1 cup sour cream - 1\u00bd cups shredded cheddar cheese - 1 sleeve Ritz crackers, crus"
     }
   ]
 }
