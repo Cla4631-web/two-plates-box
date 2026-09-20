@@ -1,6 +1,6 @@
 {
   "about": "Chase file. The Pi overwrites this. Two Plates only reads this. Weather and calendar still decide the night; this list is the menu that has to fit.",
-  "updated": "2026-09-19",
+  "updated": "2026-09-20",
   "recipes": [
     {
       "id": "steak",
@@ -149,7 +149,7 @@
       "protein": "chicken",
       "minutes": 45,
       "hotOk": false,
-      "lowCarb": true,
+      "lowCarb": false,
       "how": "This mild tzatziki can be made more assertive by doubling the garlic. A rasp grater quickly turns the garlic into a paste. You\u2019ll need four 12-inch metal skewers. Chicken Salt and pepper 1\u00bd pounds boneless, skinless chicken breasts, trimmed"
     },
     {
@@ -169,7 +169,7 @@
       "protein": "other",
       "minutes": 210,
       "hotOk": false,
-      "lowCarb": true,
+      "lowCarb": false,
       "how": "4-pound pot roast (chuck, rump, or similar) 1 teaspoon salt \u215b teaspoon pepper 2 tablespoons fat (lard, tallow, ghee, or avocado oil works great) 1 cup water, \u00bd teaspoon monk fruit sweetener (50% mogroside) 2 slices lemon (peeled), 2 medium "
     },
     {
@@ -200,7 +200,7 @@
       "minutes": 10,
       "hotOk": false,
       "lowCarb": true,
-      "how": "Chicken Pasties Curried chicken legs Scotch Eggs Sandwiches Lettuce Cheese a picnic basket Should include a variety of finger foods."
+      "how": "Chicken Pasties Curried chicken legs Scotch Eggs Sandwiches Lettuce Cheese a picnic basket Should include a variety of finger foods. Carb rating (Moderate, ambiguous): Mixed picnic spread (meats, cheese, sandwiches/pastries, etc.); best-fit"
     },
     {
       "id": "picnic-sandwiches",
@@ -219,7 +219,7 @@
       "protein": "chicken",
       "minutes": 20,
       "hotOk": false,
-      "lowCarb": true,
+      "lowCarb": false,
       "how": "Malcolm\u2018s gazpacho July 21, 2009 * Three cucumbers, halved and seeded, chopped finely. * Two bell peppers, chopped finely. * One big onion, chopped finely. * A can of V8 juice. * Half a cup of olive oil. * Half a cup of red wine vinegar. * "
     },
     {
@@ -269,7 +269,7 @@
       "protein": "chicken",
       "minutes": 35,
       "hotOk": false,
-      "lowCarb": true,
+      "lowCarb": false,
       "how": "4 chicken breasts or 6 thighs 2 tbsp butter 4 cloves garlic, minced 1 cup heavy cream \u00bd cup chicken broth \u00bd cup grated Parmesan 2 cups fresh spinach \u00bd cup sun-dried tomatoes, chopped 1 tsp Italian seasoning Salt and pepper Season chicken wi"
     },
     {
@@ -349,7 +349,7 @@
       "protein": "chicken",
       "minutes": 360,
       "hotOk": false,
-      "lowCarb": true,
+      "lowCarb": false,
       "how": "Pumpkin Apple Soup Recipe - 8 cups chopped fresh pumpkin (about 3 pounds) - 4 cups chicken broth - 3 small tart apples, peeled and chopped - 1 medium onion, chopped - 2 tablespoons lemon juice - 2 tablespoons minced fresh ginger root - 2 ga"
     },
     {
@@ -379,7 +379,7 @@
       "protein": "other",
       "minutes": 45,
       "hotOk": false,
-      "lowCarb": true,
+      "lowCarb": false,
       "how": "\u2022 1 medium yellow onion, halved and sliced thin \u2022 3\u20134 tablespoons avocado oil, divided \u2022 1 small clove garlic, minced \u2022 1 teaspoon minced fresh thyme \u2022 1 medium zucchini, sliced \u00bc-inch thick \u2022 1 medium yellow summer squash, sliced \u00bc-inch th"
     },
     {
@@ -430,7 +430,7 @@
       "minutes": 25,
       "hotOk": false,
       "lowCarb": true,
-      "how": "From the recipe box on the Pi."
+      "how": "Carb rating (Low): Notes/title mark this as low-carb or keto."
     },
     {
       "id": "coconut-cream-bars-low-carb",
@@ -440,7 +440,7 @@
       "minutes": 25,
       "hotOk": false,
       "lowCarb": true,
-      "how": "From the recipe box on the Pi."
+      "how": "Carb rating (Low): Notes/title mark this as low-carb or keto."
     },
     {
       "id": "creamy-tarragon-flank-steak",
@@ -449,7 +449,7 @@
       "protein": "steak",
       "minutes": 30,
       "hotOk": false,
-      "lowCarb": true,
+      "lowCarb": false,
       "how": "(Works excellently with flap steak / carne asada meat) Servings: 2 For the Steak: \u2022 1 lb flap steak or flank steak (flap steak / carne asada meat preferred \u2014 more flavorful and tender) \u2022 Salt and black pepper \u2022 1 Tbsp avocado oil or melted "
     },
     {
@@ -459,7 +459,7 @@
       "protein": "steak",
       "minutes": 30,
       "hotOk": false,
-      "lowCarb": true,
+      "lowCarb": false,
       "how": "(Works excellently with flap steak / carne asada meat) Servings: 2 For the Steak: \u2022 1 lb flap steak or flank steak (flap steak / carne asada meat preferred \u2014 more flavorful and tender) \u2022 Salt and black pepper \u2022 1 Tbsp avocado oil or melted "
     },
     {
@@ -469,7 +469,7 @@
       "protein": "steak",
       "minutes": 50,
       "hotOk": false,
-      "lowCarb": true,
+      "lowCarb": false,
       "how": "4\u20136 chicken legs (bone-in, skin-on) 2 Tbsp avocado oil or melted beef tallow 1\u00bd tsp salt 1 tsp garlic powder 1 tsp smoked paprika \u00be tsp cayenne pepper (adjust to your heat preference) \u00bd tsp black pepper \u00bd tsp dried thyme or oregano (optiona"
     },
     {
@@ -499,7 +499,7 @@
       "protein": "other",
       "minutes": 60,
       "hotOk": false,
-      "lowCarb": true,
+      "lowCarb": false,
       "how": "- 2 pounds ground beef - 1 large sweet yellow onion, diced - 3\u20134 garlic cloves, minced - 2 red bell peppers, roasted (instructions below) - 4 cups beef broth (or equivalent made with beef bouillon cubes dissolved in hot water; adjust salt a"
     },
     {
@@ -545,11 +545,11 @@
     {
       "id": "chicken-tortilla-bake",
       "title": "Chicken Tortilla Bake",
-      "who": "either",
+      "who": "peter",
       "protein": "chicken",
       "minutes": 50,
       "hotOk": false,
-      "lowCarb": true,
+      "lowCarb": false,
       "how": "3 cups shredded cooked chicken 1 can (4 ounces) chopped green chilies 1 can (2-1/4 ounces) sliced black olives, divided 1 cup chicken broth 1 can (10-3/4 ounces) condensed cream of mushroom soup, undiluted 1 can (10-3/4 ounces) condensed cr"
     },
     {
@@ -619,7 +619,7 @@
       "protein": "pork",
       "minutes": 35,
       "hotOk": false,
-      "lowCarb": true,
+      "lowCarb": false,
       "how": "2 tbsp. butter 4 boneless pork chops, 3/4-inch thick 1-1/2 cups sliced mushrooms 1/2 tsp. dried rosemary leaves, crushed 1 can (10-3/4 ounces) condensed cream of mushroom soup, undiluted 2 tbsp. water 1/2 lb. fresh green beans, cut into 2-i"
     },
     {
@@ -665,11 +665,11 @@
     {
       "id": "chilled-taco-salad",
       "title": "Chilled Taco Salad",
-      "who": "either",
+      "who": "peter",
       "protein": "other",
       "minutes": 30,
       "hotOk": true,
-      "lowCarb": true,
+      "lowCarb": false,
       "how": "1 pound lean ground beef 1 to 2 cloves garlic, minced 1 tbsp. chili powder 1 can (15 ounces) dark red kidney beans, undrained 1 jar (16 ounces) taco sauce 1 small can sliced black olives 1 tomato, diced 1/4 cup scallions, sliced 2 cups shre"
     },
     {
@@ -739,7 +739,7 @@
       "protein": "chicken",
       "minutes": 45,
       "hotOk": false,
-      "lowCarb": true,
+      "lowCarb": false,
       "how": "1 box (6 ounces) Chicken stuffing mix 1-1/4 cups hot water 1/4 cup butter, softened 4 boneless, skinless chicken breasts Paprika Pepper 1 can (10-3/4 ounces) condensed cream of mushroom soup, undiluted 1/3 cup milk 1. In medium bowl, mix st"
     },
     {
@@ -775,11 +775,11 @@
     {
       "id": "fresh-vegetable-pizza",
       "title": "Fresh Vegetable Pizza",
-      "who": "either",
+      "who": "peter",
       "protein": "other",
       "minutes": 40,
       "hotOk": false,
-      "lowCarb": true,
+      "lowCarb": false,
       "how": "2 cans (8 ounces each) refrigerated crescent dinner rolls 1 package (8 ounces) cream cheese, softened 2 tbsp sour cream 1 tsp dillweed 1/2 tsp horseradish, or to taste 1/4 tsp salt 1/8 tsp pepper 1-1/2 cups small broccoli florets 1 cup fres"
     },
     {
@@ -805,7 +805,7 @@
     {
       "id": "double-decker-tacos",
       "title": "Double Decker Tacos",
-      "who": "either",
+      "who": "peter",
       "protein": "other",
       "minutes": 30,
       "hotOk": false,
@@ -829,7 +829,7 @@
       "protein": "pork",
       "minutes": 25,
       "hotOk": false,
-      "lowCarb": true,
+      "lowCarb": false,
       "how": "For the pork: 2 thin pork cutlets (about 4\u20136 oz each), or one larger cutlet pounded thin and cut in half Salt and freshly ground black pepper 1\u20132 Tbsp avocado oil or ghee 1 Tbsp butter For the fig pan sauce: 4\u20135 fresh figs, stemmed and quar"
     },
     {
@@ -939,7 +939,7 @@
       "protein": "chicken",
       "minutes": 45,
       "hotOk": true,
-      "lowCarb": true,
+      "lowCarb": false,
       "how": "1 package (12 ounces) wide egg noodles, cooked and drained 2 cups cooked, chopped turkey 1 can (4 ounces) sliced mushrooms, drained 1 can (10-3/4 ounces) condensed cream of mushroom soup, undiluted 1-1/3 cups milk 1/2 tsp. salt 1/4 tsp. pep"
     },
     {
@@ -1485,7 +1485,7 @@
     {
       "id": "country-chicken-casserole",
       "title": "Country Chicken Casserole",
-      "who": "either",
+      "who": "peter",
       "protein": "chicken",
       "minutes": 55,
       "hotOk": true,
@@ -1779,7 +1779,7 @@
       "protein": "other",
       "minutes": 480,
       "hotOk": false,
-      "lowCarb": true,
+      "lowCarb": false,
       "how": "1 beef roast (3 to 5 pounds) 4 large potatoes, peeled and quartered 6 large carrots, peeled and cut into chunks 1 large onion, peeled and quartered 5 cloves garlic, minced 3/4 cup beef broth or red wine 1 tbsp. dried parsley Pinch dried thy"
     },
     {
