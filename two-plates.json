@@ -1,6 +1,6 @@
 {
   "about": "Chase file. The Pi overwrites this. Two Plates only reads this. Weather and calendar still decide the night; this list is the menu that has to fit.",
-  "updated": "2026-09-23",
+  "updated": "2026-09-24",
   "recipes": [
     {
       "id": "steak",
@@ -2381,6 +2381,16 @@
       "hotOk": true,
       "lowCarb": false,
       "how": "- 3 cups cooked, shredded chicken (rotisserie is the usual shortcut) - 1 (10.5 oz) can cream of chicken soup (or homemade cream-of-chicken sauce, see Notes) - 1 cup sour cream - 1\u00bd cups shredded cheddar cheese - 1 sleeve Ritz crackers, crus"
+    },
+    {
+      "id": "peter-s-work-bento-chicken-salad",
+      "title": "Peter's Work Bento Chicken Salad",
+      "who": "peter",
+      "protein": "chicken",
+      "minutes": 15,
+      "hotOk": true,
+      "lowCarb": false,
+      "how": "For the chicken salad: 2 cups cooked chicken, chopped or shredded (rotisserie or leftover roast) 1/3\u20131/2 cup mayonnaise (avocado-oil mayo preferred) 1/3 cup roasted cashews, roughly chopped 1\u20132 tsp very finely minced onion or a pinch of oni"
     }
   ]
 }
