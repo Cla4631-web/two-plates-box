@@ -1,6 +1,6 @@
 {
   "about": "Chase file. The Pi overwrites this. Two Plates only reads this. Weather and calendar still decide the night; this list is the menu that has to fit.",
-  "updated": "2026-09-26",
+  "updated": "2026-09-27",
   "recipes": [
     {
       "id": "steak",
@@ -333,16 +333,6 @@
       "how": "Serves 2 (generous portions) This should be a hit for Peter! It pairs excellently with the refried beans or the lemon chicken rice soup we developed earlier. 12\u201316 oz (\u00be\u20131 lb) boneless, skinless chicken thighs (preferred) or breasts, cut in"
     },
     {
-      "id": "warm-rocky-road-cake",
-      "title": "Warm Rocky Road Cake",
-      "who": "peter",
-      "protein": "eggs",
-      "minutes": 60,
-      "hotOk": false,
-      "lowCarb": false,
-      "how": "\u2022 1\u00bd cups all-purpose flour \u2022 \u00be cup Ghirardelli unsweetened cocoa powder \u2022 2 tsp baking powder \u2022 \u00bd tsp salt \u2022 \u00be cup monk fruit sweetener \u2022 1 cup full-fat sour cream \u2022 \u2153 cup grass-fed butter, melted \u2022 2 large eggs \u2022 2 tsp pure vanilla extrac"
-    },
-    {
       "id": "fresh-pumpkin-soup-slow-cooker",
       "title": "Fresh pumpkin soup (slow cooker)",
       "who": "either",
@@ -371,16 +361,6 @@
       "hotOk": false,
       "lowCarb": false,
       "how": "1 to 1.25 lbs boneless pork shoulder (butt), cut into 1.5\u20132 inch cubes 2\u20133 Tbsp avocado oil (divided) 1 medium yellow onion, diced (about 1.5 cups) 4 garlic cloves, minced 1\u20132 canned chipotle chiles in adobo, minced (start with 1 for modera"
-    },
-    {
-      "id": "summer-vegetable-gratin-for-two",
-      "title": "Summer Vegetable Gratin for Two",
-      "who": "either",
-      "protein": "other",
-      "minutes": 45,
-      "hotOk": false,
-      "lowCarb": false,
-      "how": "\u2022 1 medium yellow onion, halved and sliced thin \u2022 3\u20134 tablespoons avocado oil, divided \u2022 1 small clove garlic, minced \u2022 1 teaspoon minced fresh thyme \u2022 1 medium zucchini, sliced \u00bc-inch thick \u2022 1 medium yellow summer squash, sliced \u00bc-inch th"
     },
     {
       "id": "green-chile-cheeseburger-w-grind-option",
@@ -2391,6 +2371,236 @@
       "hotOk": true,
       "lowCarb": false,
       "how": "For the chicken salad: 2 cups cooked chicken, chopped or shredded (rotisserie or leftover roast) 1/3\u20131/2 cup mayonnaise (avocado-oil mayo preferred) 1/3 cup roasted cashews, roughly chopped 1\u20132 tsp very finely minced onion or a pinch of oni"
+    },
+    {
+      "id": "circassian-chicken",
+      "title": "Circassian Chicken",
+      "who": "peter",
+      "protein": "chicken",
+      "minutes": 105,
+      "hotOk": true,
+      "lowCarb": false,
+      "how": "For the chicken: 3 quarts water 1 medium onion 1 carrot 1 stalk celery with leaves \u00bd cup parsley clusters 1 teaspoon salt \u00bd teaspoon pepper 1 (4-pound) chicken For the walnut paste: 3 slices bread (or low-carb bread) 1 cup of the chicken co"
+    },
+    {
+      "id": "baked-lamb",
+      "title": "Baked Lamb",
+      "who": "either",
+      "protein": "eggs",
+      "minutes": 75,
+      "hotOk": false,
+      "lowCarb": true,
+      "how": "For the wheat layers: 1\u00bd cups cracked wheat (bulgur) 2 medium onions, quartered 1 egg \u00bd teaspoon dry basil 1\u00bd teaspoons salt \u00bc teaspoon pepper 1 pound lean ground lamb For the filling: 1 pound lean ground lamb \u00bd cup pine nuts 1 teaspoon sal"
+    },
+    {
+      "id": "lentil-soup",
+      "title": "Lentil Soup",
+      "who": "either",
+      "protein": "other",
+      "minutes": 60,
+      "hotOk": false,
+      "lowCarb": true,
+      "how": "For the soup: 1 pound (2 cups) lentils 6 cups water 1\u00bd teaspoons salt \u00bd teaspoon pepper 2 medium onions For the finish: 4 cups spinach 2 tablespoons lemon juice \u00bc teaspoon Tabasco 1. Put the lentils, water, salt, pepper, and onions into a l"
+    },
+    {
+      "id": "stuffed-veal-birds",
+      "title": "Stuffed Veal Birds",
+      "who": "peter",
+      "protein": "other",
+      "minutes": 120,
+      "hotOk": false,
+      "lowCarb": false,
+      "how": "For the stuffing: 6 slices bread (3 cups crumbs) \u00bc cup hot water 1 medium onion, coarsely sliced 1 teaspoon salt \u00bc teaspoon pepper \u00bc cup melted butter 2 tablespoons parsley clusters \u00bd cup coarsely cut celery \u00be teaspoon sage For the veal: 1\u00bd"
+    },
+    {
+      "id": "scrambled-eggs-and-peppers-mexicana",
+      "title": "Scrambled Eggs and Peppers Mexicana",
+      "who": "either",
+      "protein": "eggs",
+      "minutes": 15,
+      "hotOk": false,
+      "lowCarb": false,
+      "how": "\u00bd medium onion, coarsely cut 1 clove garlic 2 green peppers, seeded and cut into strips \u00bd cup tomato pur\u00e9e 1 teaspoon salt \u00bc teaspoon pepper 6 eggs 3 tablespoons butter Toast or tortillas, for serving (optional) 1. Put the onion, garlic, gr"
+    },
+    {
+      "id": "chicken-mole",
+      "title": "Chicken Mole",
+      "who": "either",
+      "protein": "chicken",
+      "minutes": 90,
+      "hotOk": true,
+      "lowCarb": false,
+      "how": "For the chicken: 1 (4-pound) chicken, cut into serving pieces Salted water, to cover 2 tablespoons avocado oil (replaces the book's salad oil) 1 green pepper, seeded and cut into strips 1 red pepper, seeded and cut into strips For the mole:"
+    },
+    {
+      "id": "barbecued-spareribs",
+      "title": "Barbecued Spareribs",
+      "who": "either",
+      "protein": "other",
+      "minutes": 70,
+      "hotOk": true,
+      "lowCarb": true,
+      "how": "For the sauce: 1 medium onion, quartered 1 clove garlic 1 (12-ounce) bottle chili sauce Juice of 1 lemon \u00bc cup avocado oil (replaces the book's salad oil) 1 teaspoon salt 1 teaspoon dry mustard 1 teaspoon chili powder \u00bd teaspoon pepper \u00bd te"
+    },
+    {
+      "id": "laulaus-with-curry-sauce",
+      "title": "Laulaus with Curry Sauce",
+      "who": "you",
+      "protein": "pork",
+      "minutes": 160,
+      "hotOk": false,
+      "lowCarb": true,
+      "how": "1 plump roasting chicken Large spinach leaves Salt and pepper A little finely chopped onion Ti leaves or aluminum foil, and string Luau Coconut Curry Sauce, for serving 1. Remove the meat from the chicken and cut it into squares. 2. Lay sev"
+    },
+    {
+      "id": "sauerbraten",
+      "title": "Sauerbraten",
+      "who": "peter",
+      "protein": "other",
+      "minutes": 200,
+      "hotOk": false,
+      "lowCarb": false,
+      "how": "For the roast: 1 (4-pound) pot roast 2 tablespoons flour 1 teaspoon salt \u215b teaspoon pepper 2 tablespoons beef tallow, lard, or avocado oil (replaces the book's unspecified fat) For the first blend: 1 cup water 2 tablespoons brown sugar 2 sl"
+    },
+    {
+      "id": "onion-soup",
+      "title": "Onion Soup",
+      "who": "peter",
+      "protein": "other",
+      "minutes": 30,
+      "hotOk": false,
+      "lowCarb": false,
+      "how": "\u00bd cup diced Parmesan cheese 4 large onions, quartered 2 (10\u00bd-ounce) cans beef bouillon 1\u00bd cups water 1 teaspoon salt \u00bc teaspoon pepper 2 cups cubed French bread 1. Put the Parmesan into the blender container. Cover and blend on high speed f"
+    },
+    {
+      "id": "buck-rabbit",
+      "title": "Buck Rabbit",
+      "who": "peter",
+      "protein": "eggs",
+      "minutes": 20,
+      "hotOk": false,
+      "lowCarb": false,
+      "how": "For the rarebit: \u2154 cup warm stale beer or ale 2 tablespoons flour 2 tablespoons soft butter 2 cups diced Cheddar cheese 1 teaspoon anchovy-free Worcestershire sauce \u00bc teaspoon dry mustard \u00bd teaspoon salt Dash cayenne For serving: 4 slices h"
+    },
+    {
+      "id": "fine-beef-soup",
+      "title": "Fine Beef Soup",
+      "who": "either",
+      "protein": "other",
+      "minutes": 570,
+      "hotOk": false,
+      "lowCarb": true,
+      "how": "For the stock (day 1): 3 pounds fresh beef shank or foreleg, with bones (substantial, not too fatty) 4\u00bd pints (9 cups) water Pinch salt Pinch pepper For the soup (day 2): 2 carrots, sliced 1 to 2 turnips, sliced 1 onion, sliced 2 stalks cel"
+    },
+    {
+      "id": "wild-rice-and-mushroom-soup",
+      "title": "Wild Rice and Mushroom Soup",
+      "who": "either",
+      "protein": "chicken",
+      "minutes": 110,
+      "hotOk": false,
+      "lowCarb": false,
+      "how": "For the rice: 4 cups water 1 sprig fresh thyme 1 bay leaf 1 garlic clove, peeled \u00be teaspoon salt \u00bc teaspoon baking soda 1 cup wild rice For the soup: \u00bc ounce dried shiitake mushrooms, rinsed 4 tablespoons unsalted butter 1 pound cremini mus"
+    },
+    {
+      "id": "italian-wedding-soup",
+      "title": "Italian Wedding Soup",
+      "who": "you",
+      "protein": "pork",
+      "minutes": 75,
+      "hotOk": false,
+      "lowCarb": false,
+      "how": "For the broth: 1 onion, chopped 1 fennel bulb, stalks discarded, bulb halved, cored, and chopped 4 garlic cloves, peeled and smashed \u00bc ounce dried porcini mushrooms, rinsed 4 ounces ground pork 4 ounces 85 percent lean ground beef 1 bay lea"
+    },
+    {
+      "id": "red-wine-braised-pork-chops",
+      "title": "Red Wine-Braised Pork Chops",
+      "who": "you",
+      "protein": "pork",
+      "minutes": 200,
+      "hotOk": false,
+      "lowCarb": true,
+      "how": "Salt and pepper 4 (10- to 12-ounce) bone-in pork blade chops, 1 inch thick 2 teaspoons avocado oil (replaces the recipe's vegetable oil) 2 onions, halved and sliced thin 5 sprigs fresh thyme plus \u00bc teaspoon minced 2 garlic cloves, peeled 2 "
+    },
+    {
+      "id": "catalan-style-beef-stew-with-mushrooms",
+      "title": "Catalan-Style Beef Stew with Mushrooms",
+      "who": "peter",
+      "protein": "other",
+      "minutes": 210,
+      "hotOk": false,
+      "lowCarb": false,
+      "how": "For the stew: 2 tablespoons olive oil 2 large onions, chopped fine \u00bd teaspoon monk fruit sweetener, 1:1 granulated blend (replaces the sugar) Kosher salt and pepper 2 plum tomatoes, halved lengthwise, pulp grated on large holes of box grate"
+    },
+    {
+      "id": "onion-and-cheese-pie",
+      "title": "Onion-and-Cheese Pie",
+      "who": "peter",
+      "protein": "eggs",
+      "minutes": 60,
+      "hotOk": false,
+      "lowCarb": false,
+      "how": "Pastry for a 9-inch pie plate (all-butter; see notes) 2 tablespoons butter 2 small onions, diced \u00bd pound Swiss cheese, cubed 3 eggs \u00bd teaspoon salt \u215b teaspoon nutmeg 1 cup hot cream 1. Line a 9-inch pie plate with pastry. Prick the pastry t"
+    },
+    {
+      "id": "puffy-cheese-omelet",
+      "title": "Puffy Cheese Omelet",
+      "who": "either",
+      "protein": "eggs",
+      "minutes": 20,
+      "hotOk": false,
+      "lowCarb": true,
+      "how": "\u2153 cup milk 1 cup diced Cheddar or Swiss cheese 1 teaspoon salt \u00bc teaspoon pepper 6 egg yolks \u00bc cup parsley leaves 6 egg whites, stiffly beaten Butter, for the skillet 1. Put the milk, cheese, salt, pepper, egg yolks, and parsley into the bl"
+    },
+    {
+      "id": "plain-scrambled-eggs-for-two",
+      "title": "Plain Scrambled Eggs for Two",
+      "who": "either",
+      "protein": "eggs",
+      "minutes": 10,
+      "hotOk": false,
+      "lowCarb": true,
+      "how": "\u00bc cup milk or cream \u00bd teaspoon salt \u215b teaspoon pepper 4 eggs 1 tablespoon butter 1. Put the milk or cream, salt, pepper, and eggs into the blender container. Cover and blend on high speed for 3 seconds. 2. To cook scrambled eggs: Melt the b"
+    },
+    {
+      "id": "creamy-scrambled-eggs-for-three",
+      "title": "Creamy Scrambled Eggs for Three",
+      "who": "either",
+      "protein": "eggs",
+      "minutes": 10,
+      "hotOk": false,
+      "lowCarb": true,
+      "how": "6 eggs \u00bd cup light cream 1 teaspoon salt Dash pepper 3 ounces cream cheese, quartered 3 tablespoons butter 1. Put the eggs, light cream, salt, pepper, and cream cheese into the blender container. Cover and blend on high speed for 6 seconds."
+    },
+    {
+      "id": "best-chicken-parmesan",
+      "title": "Best Chicken Parmesan",
+      "who": "peter",
+      "protein": "chicken",
+      "minutes": 60,
+      "hotOk": true,
+      "lowCarb": false,
+      "how": "For the sauce: 2 tablespoons extra-virgin olive oil 2 garlic cloves, minced Kosher salt and pepper \u00bc teaspoon dried oregano Pinch red pepper flakes 1 (28-ounce) can crushed tomatoes \u00bc teaspoon sugar 2 tablespoons coarsely chopped fresh basi"
+    },
+    {
+      "id": "sweet-and-sour-pork",
+      "title": "Sweet-and-Sour Pork",
+      "who": "you",
+      "protein": "pork",
+      "minutes": 45,
+      "hotOk": false,
+      "lowCarb": false,
+      "how": "1 (13\u00bd-ounce) can pineapple chunks For the batter: 1 egg 3 tablespoons pineapple syrup (from the can) \u00bd teaspoon salt \u00bd cup flour For the pork: 1\u00bd pounds boned leg or shoulder of pork, cut into 1-inch cubes Avocado oil, for deep-frying (rep"
+    },
+    {
+      "id": "spanish-pork-chops",
+      "title": "Spanish Pork Chops",
+      "who": "you",
+      "protein": "pork",
+      "minutes": 60,
+      "hotOk": false,
+      "lowCarb": false,
+      "how": "4 pork chops \u00bc cup flour \u00bd teaspoon salt \u00bc teaspoon coarsely ground pepper 2 tablespoons lard (replaces the book's melted fat or shortening) 1 medium onion, quartered \u00bd cup coarsely cut celery \u00bd green pepper, seeded and cut into strips \u00bd te"
     }
   ]
 }
