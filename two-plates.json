@@ -1,6 +1,6 @@
 {
   "about": "Chase file. The Pi overwrites this. Two Plates only reads this. Weather and calendar still decide the night; this list is the menu that has to fit.",
-  "updated": "2026-09-27",
+  "updated": "2026-09-28",
   "recipes": [
     {
       "id": "steak",
@@ -2601,6 +2601,16 @@
       "hotOk": false,
       "lowCarb": false,
       "how": "4 pork chops \u00bc cup flour \u00bd teaspoon salt \u00bc teaspoon coarsely ground pepper 2 tablespoons lard (replaces the book's melted fat or shortening) 1 medium onion, quartered \u00bd cup coarsely cut celery \u00bd green pepper, seeded and cut into strips \u00bd te"
+    },
+    {
+      "id": "ham-souffl",
+      "title": "Ham Souffl\u00e9",
+      "who": "you",
+      "protein": "pork",
+      "minutes": 50,
+      "hotOk": false,
+      "lowCarb": false,
+      "how": "4 tablespoons soft butter 4 tablespoons flour \u00bd teaspoon salt 5 egg yolks 1 (4\u00bd-ounce) can deviled ham 1 cup hot milk 5 egg whites, stiffly beaten 1. Put the butter, flour, salt, egg yolks, deviled ham, and hot milk into the blender contain"
     }
   ]
 }
